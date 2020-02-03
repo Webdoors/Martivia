@@ -1,0 +1,24 @@
+$(document).on("keyup",".A,.C",function(){
+var ave=0;
+	if($(this).attr("d")=="GDP"){
+		ave=((parseFloat($(".A17").val())+parseFloat($(".A18").val())+parseFloat($(".A19").val())+parseFloat($(".A20").val())+parseFloat($(".A21").val())+parseFloat($(".A22").val()))/6).toFixed(2);		
+		$(".A23").val(ave);		
+	}
+	if($(this).attr("d")=="NPL"){
+		ave=((parseFloat($(".A27").val())+parseFloat($(".A28").val())+parseFloat($(".A29").val())+parseFloat($(".A30").val())+parseFloat($(".A31").val())+parseFloat($(".A32").val()))/6).toFixed(2);		
+		$(".A33").val(ave);		
+	}
+	if($(this).attr("d")=="SNPL"){
+		ave=$(this).attr("c");
+	}
+	func("savepar",$(this).attr("d"),$(this).val(),$(this).attr("m"),ave);
+});
+$(document).on("click",".ADD",function(){
+	func("NACENPL",$(".B1").val(),$(".B2").val(),$(".B3").val());
+});
+$(document).on("click",".DLT",function(){
+	func("DELSEC",$(this).attr("d"));
+});
+$(document).on("click",".ADD",function(){
+	func("addsector",$(".B1").val(),$(".B3").val());
+});
