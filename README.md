@@ -10,7 +10,7 @@
 # About Martivia
 
 Martivia is a cross platform (Php,Python,Node.js,c#,java and etc.) web application framework. The simplicity and the novelty of the paradigm used in this framework enables web applications to load much faster and use as little resources as possible in the process.
-
+<pre>
 function func(a,b){
     var FD = new FormData();
     FD.append('function',a);
@@ -41,3 +41,4 @@ function func(a,b){
 		}
 	});
 }
+</pre>
