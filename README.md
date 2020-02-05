@@ -4,7 +4,7 @@
 <a href="https://travis-ci.org/laravel/framework"><img src="https://webdoors.ge/partners/martivia/img/build.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://webdoors.ge/partners/martivia/img/total.svg" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://webdoors.ge/partners/martivia/img/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://webdoors.ge/partners/martivia/img/license.svg" alt="License"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://webdoors.ge/partners/martivia/img/license2.svg" alt="License"></a>
 </p>
 
 # About Martivia
