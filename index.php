@@ -1,14 +1,13 @@
 <?php  
 	session_name("apiadmin");
 	session_start();
-	$con = mysqli_connect("","","","");
-	mysqli_set_charset($con,"utf8");
+	include("db_open.php");
 	date_default_timezone_set("Asia/Tbilisi");
-	$Guid=$_SESSION['MGuserID'];
-	$q1=mysqli_query($con,"SELECT * FROM admins WHERE Id='$Guid'");
+	$uid=$_SESSION['uid'];
+	$q1=mysqli_query($con,"SELECT * FROM users WHERE Id='$uid'");
 	$dir="pages/";
-	if(isset($_SESSION['MGtimeout'])){
-		if($_SESSION['MGtimeout']<time()){
+	if(isset($_SESSION['timeout'])){
+		if($_SESSION['timeout']<time()){
 			session_unset(); 
 			session_destroy(); 
 		}		
@@ -16,12 +15,7 @@
 
 
 if(mysqli_num_rows($q1)>0){
-	
-
-	$Guid=$_SESSION['MGuserID'];
-	$q12=mysqli_query($con,"SELECT * FROM permissions WHERE adminid='$Guid'");
-	$r12=mysqli_fetch_array($q12);
-	$PG="reports";
+	$PG="home";
 	if(isset($_GET["page"])){
 		$PG=$_GET["page"];
 	}
@@ -32,5 +26,5 @@ if(mysqli_num_rows($q1)>0){
 	include("view/pages/login.php");
 }	
 
-mysqli_close($con);
+include("db_close.php");
 ?>

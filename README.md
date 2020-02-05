@@ -10,6 +10,17 @@
 # About Martivia
 
 Martivia is a cross platform (Php,Python,Node.js,c#,java and etc.) web application framework. The simplicity and the novelty of the paradigm used in this framework enables web applications to load much faster and use as little resources as possible in the process.
+
+# How it works
+
+Martivia depends on jquery and has it's main.js file where we have created universal Ajax function called "func" which accepts two optional parameters: a) Function Name; b) Params object. Example {key:value};
+
+In this Framework every function or a class is a file that is included through func.php
+
+Every xhr ajax call goes through func.php that redirects or includes the file send as a function name, For example func("login"); sends request to /func/func.php that includes login.php by the logic {Function Name}.php . 
+
+
+
 <pre>
 function func(a,b){
     var FD = new FormData();
