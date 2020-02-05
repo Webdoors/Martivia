@@ -17,7 +17,7 @@ Martivia depends on jquery and has it's main.js file where we have created unive
 
 In this Framework every function or a class is a file that is included through func.php
 
-Every xhr ajax call goes through func.php that redirects or includes the file send as a function name, For example func("login"); sends request to /func/func.php that includes login.php by the logic {Function Name}.php . 
+Every xhr jquery ajax call is posted to func.php that redirects or includes the file by the function name sent as the first argument of func(a,b) , For example func("login"); sends request to /func/func.php that includes login.php by the logic of {Function Name}.php . 
 
 
 
