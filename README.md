@@ -13,14 +13,14 @@ Martivia is a cross platform (Php,Python,Node.js,c#,java and etc.) web applicati
 
 # How it works
 
-Martivia depends on jquery and has it's main.js file where we have created universal Ajax function called "func" which accepts two optional parameters: a) Function Name; b) Params object. Example {key:value};
+Martivia depends on jquery and has it's main.js file where we have created universal Ajax function called "func" which accepts two optional parameters: a) Function Name; b) Parameters object, Example {key:value};
 
 In this Framework every function or a class is a file that is included through func.php
 
-Every xhr jquery ajax call is posted to func.php that redirects or includes the file by the function name sent as the first argument of func(a,b) , For example func("login"); sends request to /func/func.php that includes login.php by the logic of {Function Name}.php . 
+Every xhr jquery ajax call is posted to func.php that includes the file by the function name sent as the first argument of func(a,b) function , For example func("login"); sends request to /func/func.php that includes login.php by the logic of {Function Name}.php . 
 
 
-
+func function in main.js:
 <pre>
 function func(a,b){
     var FD = new FormData();
