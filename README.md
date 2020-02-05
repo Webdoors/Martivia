@@ -19,7 +19,7 @@ In this Framework every function or a class is a file that is included through f
 
 Every xhr jquery ajax call is posted to func.php that includes the file by the function name sent as the first argument of func(a,b) function , For example func("login"); sends request to /func/func.php that includes login.php by the logic of {Function Name}.php . 
 
-a - Function Name
+a - Function Name<br>
 b - Parameters Object {key:value,key:value};
 
 See func function from main.js
