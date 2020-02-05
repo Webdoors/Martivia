@@ -126,7 +126,38 @@ $(document).on("mousemove",function(){
 		od=(new Date()).getTime();	
 	}
 });
-function func(f, a, b, c, d, e, g, h, i, j, k, l, m) {
+function func(a,b){
+    var FD = new FormData();
+    FD.append('function',a);
+		for (var key in b) {
+			if(b!=undefined){
+				FD.append(key,b[key]);			
+			}
+			// console.log(a[key]);
+		}
+	$.ajax({  
+		type: "POST", 
+		cache: false,
+		contentType: false,
+		processData: false, 
+		url: "func/func.php",
+		data: FD,
+		success: function (result) {
+			if (result) {
+				if(a=="logout"){
+					location.reload();
+				}
+				if(a=="login"){
+					location.reload();
+				}
+				if(a=="register"){
+					location.reload();
+				}
+			}
+		}
+	});
+}
+function func2(f, a, b, c, d, e, g, h, i, j, k, l, m) {
 		var FD = new FormData();
 		FD.append('fname',f);
 		if(a!=undefined){
