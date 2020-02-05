@@ -41,10 +41,16 @@ function func(a,b){
 		}
 	});
 }
+
+
+
 //Logout Example
 $(document).on("click",".LGT",function(){
 	func("logout");
 });
+
+
+
 //Login Example
 $(document).on("click",".SIIN",function(){
 	var params = {
