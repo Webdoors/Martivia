@@ -74,3 +74,12 @@ $(document).on("click",".SIIN",function(){
 	func("login",params);
 });
 </pre>
+
+# Documentation
+
+Martivia consists of css,func,js,view folders and index.php, db_open.php, db_close.php. View folder consists of inc and pages folders.
+
+The page routing is driven by $_GET method or by redirecting all request to index.php and chunking url by "/" parts.
+
+For Example: https://example.com?page=login or https://example.com/login
+
