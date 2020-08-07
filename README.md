@@ -1,5 +1,5 @@
 <p align="center"><img src="https://webdoors.ge/partners/martivia/img/martivia.png" width="400"></p>
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
 <p align="center">
 	
 <a href="https://webdoors.ge"><img src="https://webdoors.ge/partners/martivia/img/build.svg" alt="Build Status"></a>
