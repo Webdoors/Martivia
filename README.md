@@ -1,5 +1,5 @@
 <p align="center"><img src="https://webdoors.ge/partners/martivia/img/martivia.png" width="400"></p>
-![Test Image 4](https://github.com/tograh/testrepository/3DTest.png 311)
+
 <p align="center">
 	
 <a href="https://webdoors.ge"><img src="https://webdoors.ge/partners/martivia/img/build.svg" alt="Build Status"></a>
