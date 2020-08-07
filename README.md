@@ -1,4 +1,4 @@
-<p align="center"><img src="https://webdoors.ge/partners/martivia/img/martivia.png" width="400"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Webdoors/Martivia/master/img/martivia.png" width="400"></p>
 
 <p align="center">
 	
