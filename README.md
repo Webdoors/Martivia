@@ -1,7 +1,7 @@
 <p align="center"><img src="https://webdoors.ge/partners/martivia/img/martivia.png" width="400"></p>
-
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 <p align="center">
-	[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+	
 <a href="https://webdoors.ge"><img src="https://webdoors.ge/partners/martivia/img/build.svg" alt="Build Status"></a>
 <a href="https://webdoors.ge"><img src="https://webdoors.ge/partners/martivia/img/total.svg" alt="Total Downloads"></a>
 <a href="https://webdoors.ge"><img src="https://webdoors.ge/partners/martivia/img/stable.svg" alt="Latest Stable Version"></a>
