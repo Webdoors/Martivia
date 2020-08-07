@@ -1,8 +1,8 @@
 <p align="center"><img src="https://webdoors.ge/partners/martivia/img/martivia.png" width="400"></p>
-![alt text](https://github.com/Webdoors/Martivia/img/build.svg)
+![alt text](https://raw.githubusercontent.com/Webdoors/Martivia/master/img/build.svg)
 <p align="center">
 	
-<a href="https://webdoors.ge"><img src="https://webdoors.ge/partners/martivia/img/build.svg" alt="Build Status"></a>
+<a href="https://webdoors.ge"><img src="https://raw.githubusercontent.com/Webdoors/Martivia/master/img/build.svg" alt="Build Status"></a>
 <a href="https://webdoors.ge"><img src="https://webdoors.ge/partners/martivia/img/total.svg" alt="Total Downloads"></a>
 <a href="https://webdoors.ge"><img src="https://webdoors.ge/partners/martivia/img/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://webdoors.ge"><img src="https://webdoors.ge/partners/martivia/img/license2.svg" alt="License"></a>
