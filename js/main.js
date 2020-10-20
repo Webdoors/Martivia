@@ -311,3 +311,11 @@ $( window ).resize(function() {
 		}
 	}
 });
+//snackbar
+function snack(a="",b="show") {
+
+    $("#snackbar").html(a);
+    $("#snackbar").attr("class",b);
+
+    setTimeout(function(){ $("#snackbar").attr("class","");}, 3500);
+}
