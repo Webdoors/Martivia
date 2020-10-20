@@ -22,11 +22,9 @@
 		<meta property="og:type" content="website" />
 		<meta property="fb:app_id" content="248744675578367" />
 		<meta property="og:url" content="https://kikalastudio.com/" />
-		<link rel="stylesheet" type="text/css" href="http://kikalastudio.com/admin/css/bootstrap.min.css"/>
-		<link rel="stylesheet" type="text/css" href="http://kikalastudio.com/admin/css/style.css"/>
-		<link rel="stylesheet" type="text/css" href="http://kikalastudio.com/admin/css/font-awesome/css/font-awesome.min.css"/>
-		<script src="https://code.jquery.com/jquery-latest.min.js"></script>
-		<script src="http://kikalastudio.com/admin/js/jquery-migrate-1.2.1.js"></script>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+		<link rel="stylesheet" type="text/css" href="admin/css/style.css"/>
+<script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
 	</head>
 	<body>
 <nav class="navbar navbar-default navbar-fixed-top">
