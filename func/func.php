@@ -1,5 +1,4 @@
 <?php
-	session_name("apiadmin");
 session_start();
 	include("db_open.php");
 	mysqli_set_charset($con,"utf8");
