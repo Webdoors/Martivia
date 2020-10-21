@@ -1,3 +1,245 @@
+@font-face {
+    font-family: 'josefin sans';
+    src: url('../fonts/JosefinSans-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+body{
+    margin: 0px;
+	padding-top: 50px;
+	font-family:'josefin sans';
+}
+/*swiper start*/
+html,body{
+	position:relative;
+	height:100%;
+}
+a{
+	color:initial !important;
+	text-decoration:initial !important;
+}
+.LIS{
+	padding: 20px 10px 0px !important;	
+}
+.LIZ{
+    border: solid 1px #DDD;
+    padding: 20px 4px !important;	
+}
+.LIZ:hover{
+	border-color:#ccc;
+}
+.SMT{
+	font-size:12px;
+}
+.MTO{
+
+}
+.NOP{
+	padding:0px !important;
+}
+.SLL {
+    max-width: 50%;
+    left: 10%;
+    padding: 34px;
+    text-align: left;
+    vertical-align: middle;
+    display: inline-block;
+    bottom: 10%;
+    position: absolute;
+    background: rgba(255, 255, 255, 0.49);
+    color: #FFF;
+    font: bold 34px/41px 'josefin sans';
+    text-transform: uppercase;
+}
+.swiper-container{
+	width:100%;
+	height:300px;
+	margin-left:auto;
+	margin-right:auto;
+}
+.swiper-slide{
+	background-size:cover;
+	background-position:center;
+	cursor:pointer;
+}
+.gallery-top{
+	height:80%;
+	width:100%;
+}
+.gallery-thumbs{
+	height:20%;
+	box-sizing:border-box;
+	padding:10px 0;
+}
+.gallery-thumbs .swiper-slide{
+	width:100px;
+	height:100%;
+	opacity:0.4;
+}
+.gallery-thumbs .swiper-slide-active{
+	opacity:1;
+}
+.gallery-top{
+	width:100%;
+	height:auto;
+}
+.gallery-top img {
+    vertical-align: middle;
+    margin: auto;
+    display: block;
+	width:100%;
+}
+.gallery-thumbs{
+	height:95px;
+}
+/*swiper END*/
+.MIM{
+	height:50px;
+	margin:30px;
+	width:auto;
+}
+.DMT{
+	margin-top:40px !important;
+	margin-bottom:40px !important;
+}
+.SMT{
+	margin-top:20px !important;
+	margin-bottom:20px !important;
+}
+.CNO{
+    width: 80%;
+    background: #676767;
+    color: #FFF;
+    border-radius: 20px;
+    text-align: center;
+    padding: 10px;
+    margin: 50px 10px 10px 10px;	
+}
+.CNO:hover{
+	background:#999;
+	cursor:pointer;
+}
+.CP{
+	cursor:pointer;
+}
+.NOP{
+	padding:0px !important;
+}
+.BGR{
+	background:#f6f6f6;
+}
+.HDL{
+	padding: 20px 15px 0px 15px;
+    font: normal 34px/50px josefin sans;
+}
+.LAB{
+	font: normal 20px/74px josefin sans;	
+}
+#MAP{
+	width:100%;
+	height:500px;
+}
+.DVS{
+    background: #d4af37;
+}
+a:focus{
+	text-decoration:none !important;
+}
+.BLU{
+	background:#162784;
+}
+.BLD{
+    background: #000;
+    border-top: solid 1px #4b4c4d;
+	padding: 40px 20px !important;
+	font: bold 20px/22px 'josefin sans';
+}
+.WHI,.WHI a{
+    color: #FFF !important;
+}
+.DIV{
+    padding: 20px 0px;	
+}
+.MAI{
+	max-width:100%;
+}
+.LOG{
+	position: absolute;
+    left: 31px;
+    top: 16px;
+    color: #fff;
+    font: bold 22px/22px 'josefin sans';
+    letter-spacing: 2px;
+	text-decoration:none;
+}
+.LOG a{
+	color:#fff !important;
+	text-decoration:none !important;
+}
+.TEL{
+	position: absolute;
+    right: 20px;
+    top: 16px;
+    color: #333;
+	font: normal 16px/22px 'josefin sans';
+    letter-spacing: 2px;
+	text-decoration:none;
+}
+.TEL a{
+	color: #fff !important;
+    font-weight: bold;
+	text-decoration:none;
+}
+.dd{
+	display:none !important;
+	float:right !important;
+	margin:4px 12px !important;
+	width:auto !important;
+}
+.dd-item{
+	font-size: 11px !important; 
+}
+.FHE{
+	position: fixed;
+    top: 0px;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    background:#000;
+	z-index:999;
+    box-shadow: 1px 1px 6px 0px #0e0e0e;
+}
+.HLI{
+    display: inline-block;
+}
+.L {
+    text-decoration: none;
+    display: inline-block;
+    vertical-align: top;
+    height: 50px;
+    color: #fff !important;
+    margin-left: -5px;
+    text-align: center;
+    font: normal 12px/52px 'josefin sans';
+    padding: 0px 10px;
+    background: #000;
+    text-transform: uppercase;
+	cursor:pointer;
+}
+.L:hover {
+    background: #d7d7d7;
+    text-decoration: none;
+    color: #FFF;
+}
+.L .fa{
+	display:none;
+}
+.ffa .fa{
+	display:block !important;
+}
+.dd2{
+	display:block !important;
+}
 /*Mstart*/
 .cont {
 	display:none;
@@ -9,7 +251,7 @@
 .bar1, .bar2, .bar3 {
     width: 35px;
     height: 5px;
-    background-color: #fff;
+    background-color:#333;
     margin: 6px 0;
     transition: 0.4s;
 }
@@ -26,250 +268,45 @@
     transform: rotate(45deg) translate(-8px, -8px) ;
 }
 /*Mend*/
-.MN{
-	padding:20px;
-    width: 350px;
-    border: solid 1px #DDD;
-    border-radius: 4px;
-    top: 50%;
-    left: 50%;
-    position: absolute;
-    transform: translate(-50%,-50%);
-	-ms-transform: translate(-50%,-50%);
-    -webkit-transform: translate(-50%,-50%);
-	-o-transform: translate(-50%,-50%);
-    font: normal 12px/12px 'Tahoma';
-}
-.IN{
-	border:solid 1px #DDD;
-	text-align: center;
-	width: calc(100% - 5px);
-    margin: 0px 0px 10px 0px;
-    height: 38px;
-}
-.BUT{
-    width: calc(100% - 1px);
-    height: 36px;	
-	cursor:pointer;
-}
-.SMI{
-    width: 75%;
-    display: inline-block;
-}
-.SMB{
-	cursor: pointer;
-    height: 38px;
-    width: 22%;
-    vertical-align: top;
-}
-h2{
-	margin: 0px 0px 20px;
-    text-align: center;
-}
-.FRM{
-	border:solid 1px #DDD;
-	border-radius:4px;
-	height:auto;
-	margin-top:20px; 
-    padding: 14px;
-	box-shadow: 1px 1px 21px 2px #DDD;
-}
-.INS{
-	margin:10px 0px;
-}
-.HLI {
-    background: #596ddb;
-    text-align: center;
-}
-.GLGT:hover {
-    background: #f1f1f1;
-}
-.GLGT, .ADM {
-    position: absolute;
-    top: -1px;
-    right: 60px;
-    height: 30px;
-    border: solid 1px #CCC;
-    width: 60px;
-    z-index: 9999;
-    text-align: center;
-    border-radius: 0px 0px 4px 4px;
-    font: normal 14px/26px arial;
-    background: #f5f5f5;
-    text-decoration: none;
-}
-.ACP {
-    background: #f9f9f9;
-}
-.PG {
-    padding: 0px 4px;
-    background: #EAE9E9;
-    margin: 3px 0px;
-    border: solid 1px #CCC;
-    display: inline-block;
-    border-radius: 3px;
-    font: normal 14px/23px '';
-    text-decoration: none;
-    color: #000;
-}
-.GLGT, .ADM, .L, .PG {
-    cursor: pointer;
-}
-#snackbar {
-  visibility: hidden;
-  min-width: 280px;
-  background-color: #ff4a52;
-  color: #fff;
-  font-size: 18px;
-  text-align: center;
-  border-radius: 2px;
-  padding: 16px;
-  position: fixed;
-  z-index: 99999;
-  left: 50%;
-  transform:translateX(-50%);
-  bottom: 30px;
-	border-bottom: 5px solid #b4e2f1;
-}
-#snackbar.show {
-  visibility: visible;
-  -webkit-animation: fadein 0.5s, fadeout 0.9s 2.5s;
-  animation: fadein 0.5s, fadeout 0.9s 2.5s;
-}
-
-@-webkit-keyframes fadein {
-  from {bottom: 0; opacity: 0;}
-  to {bottom: 30px; opacity: 1;}
-}
-@keyframes fadein {
-  from {bottom: 0; opacity: 0;}
-  to {bottom: 30px; opacity: 1;}
-}
-@-webkit-keyframes fadeout {
-  from {bottom: 30px; opacity: 1;}
-  to {bottom: 0; opacity: 0;}
-}
-@keyframes fadeout {
-  from {bottom: 30px; opacity: 1;}
-  to {bottom: 0; opacity: 0;}
-}
-.FST{
-	width:150px;
-}
-.LOG {
-    text-transform: uppercase;
-    position: absolute;
-    z-index: 9999;
-    color: #FFF;
-    font: normal 12px/32px sans-serif;
-    left: 6px;
-	top:0px;
-}
-.L:hover {
-    background: #6980ff;
-    text-decoration: none;
-    color: #FFF;
-}
-.L {
-    text-decoration: none;
-    display: inline-block;
-    vertical-align: top;
-    height: inherit;
-    color: #FFF;
-    border-left: solid 1px #1997d3;
-    text-align: center;
-    font: normal 12px/31px '';
-    padding: 0px 4px;
-    margin-left: -4px;
-    background: #5c72ec;
-}
-.L.ACT{
-    background: #364283;
-    color: #ffffff;
-    border-bottom: solid 1px #596ddb;
-}
-.LIS {
-    border-radius: 4px;
-    min-height: 32px;
-    margin: auto;
-    background: #f3f3f3;
-    margin-top: 2px;
-}
-.NOP{
-	padding-left:0px !important;
-	padding-right:0px !important;
-}
-.LIS>div {
-    padding-left: 4px;
-    display: inline-block;
-    vertical-align: top;
-    font: normal 14px/33px calibri;
-    text-overflow: ellipsis;
-    color: #555;
-    overflow: hidden;
-    white-space: nowrap;
-    position: relative;
-}
-.BAT {
-    display: inline-block;
-    width: 160px;
-    vertical-align: bottom;
-}
-.PIS {
-    border-bottom: solid 1px #DDD;
-    font: normal 15px/31px calibri;
-    padding: 0px 8px;
-    text-align: left;
-}
-.H1 {
-    background: #596ddb;
-    color: #fff;
-}
-.BOX {
-    position: relative;
-    width: 300px;
-    border: none !important;
-    border-radius: 4px;
-    background: #FFF;
-    display: inline-block;
-    vertical-align: top;
-    color: #000 !important;
-    margin: 14px 2px;
-    padding: 10px;
-    text-align: left;
-}
-.PRM{
-	width:80px;
-}
-h6{
-	font-size:12px;
-}
 @media (max-width: 1125px){
-	body{
-		padding-top:50px;
+	.dd-handle {
+		height: 27px !important;
+		margin: 2px 0 !important;
 	}
-	.GLGT, .ADM {
-		position: fixed;
+	.SLL {
+		max-width: 75%;
+		font: bold 14px/22px 'josefin sans';
+	}
+	body{
+		padding-top: 50px;
+	}
+	.TEL{
+		display:none;
 	}
 	.LOG{
-		font: normal 20px/50px sans-serif;
+		font: bold 30px/54px 'josefin sans';
 		left: 12px;
+		z-index: 9999;
 		position: fixed;
+		padding:0px;
+		height:initial !important;
+		color: #FFF;
+		top: 0px;
 	}
 	.HLI{
-	position: fixed !important;
-    display: none;
-    position: fixed;
-    z-index: 99;
-    padding: 50px 0px 0px 0px;
-    width: 100%;
+		box-shadow: 1px 1px 3px 0px #797979;
+		position:fixed !important;
+		display:none;
+		margin-top: 50px;
+		position: fixed;
+		z-index: 99;
 	}
 	.HLI .L{
 		width:100%;
 	}
 	.L{
 		text-align: left !important;
-		font:normal 12px/44px bpg_mrglovani !important;
+		font: normal 14px/50px 'josefin sans' !important;
 		padding: 0px 40px !important;
 		margin-left: 0px !important;
 	}
@@ -282,39 +319,42 @@ h6{
 	}	
 	.CLE{
 		top:0px;
-		position: fixed !important;
+		position: absolute !important;
 		z-index:999;
 		width:100% !important;
 		height: 50px;
-		background: #6661ad;
+		background: #1abc9c;
 	}
 	.CLE .F{
-		font: normal 18px/78px 'bpg_nino_mtavruli_normal';
+		font: normal 18px/78px ''josefin sans'';
 		display:none;
 		padding: 0px 20px;
-		height: 70px;
+		height: 50px;
 		width:100%;
 		margin-left: 0px; 
 		text-align:left;
 		padding:0px 28px;
 	}
 	.HD3 h3{
-		font: normal 18px/40px 'bpg_nino_mtavruli_normal' !important;	
+		font: normal 18px/40px ''josefin sans'' !important;	
 	}
 	.CLE .DG{
 		display:inline-block;
 		background: #2f2c5f;
 	}
 	.cont {
-		display: inline-block;
-		position: absolute;
-		right: -10px;
-		margin: 0px !important;
-		top: -11px;
-		width: 70px;
-		height: 70px;
-		padding: 18px;
-		z-index: 9999;
-		transform: scale(0.7);	
+    display: inline-block;
+    position: absolute;
+    right: 0px;
+    margin: 0px !important;
+    top: 0px;
+    width: 50px;
+    height: 50px;
+    padding: 6px;
+    z-index: 9999;
+    transform: scale(1);
 	}	
+	.MCO{
+		line-height: 15px;
+	}
 }

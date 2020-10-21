@@ -1,0 +1,16 @@
+Options +FollowSymLinks
+RewriteEngine On
+RewriteBase /
+
+#RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+#RewriteRule ^(.*)$ https://%1/$1 [R=301,L]
+#RewriteCond %{HTTPS} off
+#RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteRule ^(.*)$ index.php?url=$1 [NC,L,QSA]
+<FilesMatch ".(eot|ttf|otf|woff|woff2)">
+	Header set Access-Control-Allow-Origin "*"
+</FilesMatch>

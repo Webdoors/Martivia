@@ -1,6 +1,7 @@
 <?php  
 	session_start();
-	include("../db_open.php");
+	session_name("kikalastudioadmin");
+	include("../db.php");
 	$Guid=$_SESSION['GuserID']; 
 	$q1=mysqli_query($con,"SELECT * FROM admins WHERE Id='$Guid'");
 	$dir="pages/";
