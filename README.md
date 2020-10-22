@@ -14,6 +14,12 @@ Martivia is a cross platform (Php,Python,Node.js,c#,java and etc.) web applicati
 
 # How it works
 
+1. Every http request is directed to index.php if the file or folder does not exists.
+2. just upload admin_martivia.sql to your database.
+3. config.php
+4. open the website and change header.php,footer.php and files in pages/ folder for changing contents behaviour.
+5. for beautiful url we chunck Request_URI as $p1,$p2,$p3,$p4 for the parts of the url /$p1/$p2/$p3 ...
+
 Martivia depends on jquery and has it's main.js file where we have created universal Ajax function called "func" which accepts two optional parameters: a) Function Name; b) Parameters object, Example {key:value};
 
 In this Framework every function or a class is a file that is included through func.php
