@@ -14,12 +14,12 @@ Martivia is a cross platform (Php,Python,Node.js,c#,java and etc.) web applicati
 
 # Installation
 
-1.Just download
-2.Create databasse
-3.Upload files in your Directory,
-4.Upload admin_martivia.sql to Database 
+1.Just download.
+2.Create databasse.
+3.Upload files in your Directory.
+4.Upload admin_martivia.sql to Database. 
 5.Delete file from root.
-4.config.php
+4.config.php.
 
 # How it works
 
