@@ -18,6 +18,20 @@ if(isset($_COOKIE['kfavorite'])) {
 }
 $favorite_count=0;
 $favorite_count=count(explode('-', $favorite)); if($favorite_count>0) $favorite_count--;
+$url = $_SERVER['REQUEST_URI'];
+$url=str_replace("/?","?",$url);
+$url=str_replace("?","/?",$url);
+$parts = explode('/',$url);
+array_shift($parts);
+$i=1;
+foreach($parts as $part){
+	$p="p".$i;
+	$$p=mysqli_real_escape_string($con,$part);
+	if(strpos($$p,"?")===0){
+		$$p="";
+	}
+	$i++;
+}
 
 include("view/inc/header.php");
 $page="home";
@@ -26,6 +40,9 @@ if(isset($_GET["page"])||isset($_GET["address"])){
 }
 if(isset($_GET["address"])){
 	$page=$_GET["address"];
+}
+if($p1!=""){
+	$page=$p1;	
 }
 
 include("view/pages/".$page.".php");
