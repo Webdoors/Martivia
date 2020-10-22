@@ -1,0 +1,172 @@
+/* -----------------------------------------
+   Modals
+----------------------------------------- */
+.modal {
+    overflow-x: hidden;
+    margin: 0;
+
+    .modal-backdrop {
+        margin:0;
+    }
+
+    .modal-dialog-center {
+        margin: 0;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+    }
+    .modal-content {
+        border-radius: @border-radius-base;
+        box-shadow: none;
+        border: none;
+        .modal-header {
+            padding-bottom: @modal-title-padding - 5px;
+            #gradient.vertical(#ffffff;#f3f3f3;0%;100%);
+            color: @panel-default-text;
+            border-top-left-radius: @border-radius-base;
+            border-top-right-radius: @border-radius-base;
+            font-size: 16px;
+
+            .close {
+                color: @panel-default-text;
+                text-shadow: none;
+                opacity: 1;
+                margin-top: 1px;
+                &:hover,
+                &:focus {
+                    .opacity(0.8);
+                }
+            }
+        }
+        .modal-body {
+            padding: 20px;
+            overflow-y: auto;
+        }
+        .modal-footer {
+            margin-top: 0;
+            padding: 10px 20px;
+        }
+    }
+
+    //different effect
+
+    //fade in
+    &.modal-style1 {
+
+        &.fade .modal-dialog {
+            -webkit-transform: scale(1) !important;
+            -ms-transform: scale(1) !important;
+            transform: scale(1) !important;
+            -webkit-transition: -webkit-transform 0.3s ease-out !important;
+            -moz-transition: -moz-transform 0.3s ease-out !important;
+            -o-transition: -o-transform 0.3s ease-out !important;
+            transition: transform 0.3s ease-out !important;
+        }
+    }
+    
+    //fade in and scale
+    &.modal-style2 {
+
+        &.fade .modal-dialog {
+            -webkit-transform: scale(0.7);
+            -moz-transform: scale(0.7);
+            -ms-transform: scale(0.7);
+            transform: scale(0.7);
+            -webkit-transition: all 0.3s;
+            -moz-transition: all 0.3s;
+            transition: all 0.3s;
+        }
+
+        &.in .modal-dialog {
+            -webkit-transform: scale(1) !important;
+            -moz-transform: scale(1) !important;
+            -ms-transform: scale(1) !important;
+            transform: scale(1) !important;
+        }
+    }
+    
+    //slide from the right
+    &.modal-style3 {
+
+        &.fade .modal-dialog {
+            -webkit-transform: translateX(20%);
+            -moz-transform: translateX(20%);
+            -ms-transform: translateX(20%);
+            transform: translateX(20%);
+            -webkit-transition: all 0.3s cubic-bezier(0.25, 0.5, 0.5, 0.9);
+            -moz-transition: all 0.3s cubic-bezier(0.25, 0.5, 0.5, 0.9);
+            transition: all 0.3s cubic-bezier(0.25, 0.5, 0.5, 0.9);
+        }
+
+        &.in .modal-dialog {
+            -webkit-transform: translateX(0) !important;
+            -moz-transform: translateX(0) !important;
+            -ms-transform: translateX(0) !important;
+            transform: translateX(0) !important;
+        }
+    }
+
+    //slide from the left
+    &.modal-style4 {
+
+        &.fade .modal-dialog {
+            -webkit-transform: translateX(-20%);
+            -moz-transform: translateX(-20%);
+            -ms-transform: translateX(-20%);
+            transform: translateX(-20%);
+            -webkit-transition: all 0.3s cubic-bezier(0.25, 0.5, 0.5, 0.9);
+            -moz-transition: all 0.3s cubic-bezier(0.25, 0.5, 0.5, 0.9);
+            transition: all 0.3s cubic-bezier(0.25, 0.5, 0.5, 0.9);
+        }
+
+        &.in .modal-dialog {
+            -webkit-transform: translateX(0) !important;
+            -moz-transform: translateX(0) !important;
+            -ms-transform: translateX(0) !important;
+            transform: translateX(0) !important;
+        }
+    }
+
+    //slide from the bottom
+    &.modal-style5 {
+
+        &.fade .modal-dialog {
+            -webkit-transform: translateY(20%);
+            -moz-transform: translateY(20%);
+            -ms-transform: translateY(20%);
+            transform: translateY(20%);
+            -webkit-transition: all 0.3s;
+            -moz-transition: all 0.3s;
+            transition: all 0.3s;
+        }
+
+        &.in .modal-dialog {
+            -webkit-transform: translateX(0) !important;
+            -moz-transform: translateX(0) !important;
+            -ms-transform: translateX(0) !important;
+            transform: translateX(0) !important;
+        }
+    }
+
+    //super scale
+    &.modal-style6 {
+
+        &.fade .modal-dialog {
+            -webkit-transform: scale(2);
+            -moz-transform: scale(2);
+            -ms-transform: scale(2);
+            transform: scale(2);
+            -webkit-transition: all 0.3s;
+            -moz-transition: all 0.3s;
+            transition: all 0.3s;
+        }
+
+        &.in .modal-dialog {
+            -webkit-transform: scale(1) !important;
+            -moz-transform: scale(1) !important;
+            -ms-transform: scale(1) !important;
+            transform: scale(1) !important;
+        }
+    }
+
+}

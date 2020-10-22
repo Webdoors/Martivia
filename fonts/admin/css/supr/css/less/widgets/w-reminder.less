@@ -1,0 +1,30 @@
+/*Reminder*/
+.reminder {
+    position: relative; 
+   
+    h4 {border-bottom: 1px solid #c4c4c4; padding-bottom: 3px; margin-bottom:0px; line-height: 37px; position: relative;}
+    ul {
+        list-style: none; 
+        margin:0;
+        padding-left: 0;
+        li {
+            margin-bottom:0; 
+            padding-top: 10px; 
+            padding-bottom:10px; 
+            border-bottom: 1px solid #ebebeb;
+            .transition(all);
+            .transition-duration(0.25s);
+            &:hover {
+                #gradient.vertical(#ffffff;#fcfcfc;0%;100%);
+                border-color: #d9d9d9;
+            }
+            .icon {
+                float: left;
+                width: 32px;
+            }
+            .number {float: left;font-size: 26px; font-weight: 700; padding:0 15px; color: #ed7a53;margin-top: 5px;}
+            .btn {text-transform: uppercase; float: right; font-weight: 700; margin-top: 4px;}
+            .txt {float: left;margin-top: 13px;}
+        }
+    }
+}

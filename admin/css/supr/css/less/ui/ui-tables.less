@@ -1,0 +1,52 @@
+/* -----------------------------------------
+   Tables
+----------------------------------------- */
+.table {
+    .checkbox, .radio, .checkbox-custom, .radio-custom {
+        margin-bottom: 0;
+        margin-top: 0;
+    }
+    .progress {
+        margin-bottom: 0;
+        margin-top: 0;
+    }
+
+    thead {
+        tr {
+            th {
+                border-bottom: 1px solid @table-border-color;
+            }
+        }
+    }
+    
+    tfoot {
+        tr {
+            th,td {
+                border-bottom: 1px solid @table-border-color;
+            }
+        }
+    }
+    &.table-bordered {
+        thead {
+            tr {background: @table-head-bg; color: @table-head-color;}
+        }
+    }
+
+    .fixed{
+        top:0;
+        position:fixed;
+        width:auto;
+        display:none;
+        border:none;
+    }
+
+    &.table-fixed-layout {
+        table-layout: fixed;
+        td {
+            width: 100%;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+    }
+}

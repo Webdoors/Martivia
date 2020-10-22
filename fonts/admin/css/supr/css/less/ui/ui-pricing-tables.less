@@ -1,0 +1,153 @@
+/* -----------------------------------------
+   Pricing tables
+----------------------------------------- */
+.pricing-table {
+    position: relative;
+    background: @white;
+    margin-top: 25px;
+    margin-bottom: 50px;
+    border-radius: @border-radius-base;
+    .pricing-header {
+        border: 1px solid @list-group-border;   
+        border-bottom: none;
+        width: 100%;
+        text-align: center;
+        #gradient.vertical(#ffffff;#f3f3f3;0%;100%);
+        h3 {
+            display: inline-block;
+            text-transform: uppercase;
+            padding: 15px 0;
+            position: relative;
+            margin: 10px 0;
+            font-size: 28px;
+        }
+    }
+    ul.list-group {
+        margin-bottom: -1px;
+        margin-top: -1px;
+       
+        li {
+            padding: 15px;
+            i {
+                margin: 0 15px;
+                float: left;
+                margin-top: -3px;
+            }
+            border-radius: 0;
+            font-size: 16px;
+            text-transform: uppercase;
+
+            &.off {
+                text-decoration: line-through;
+            }
+        }
+    }
+
+    .pricing-bottom {
+        border: 1px solid @list-group-border;   
+        border-top: none;
+        width: 100%;
+        text-align: center;
+        .price {
+            width: 70%;
+            margin-left: 15%;
+            margin-right: 15%;
+            #gradient.vertical(#ffffff;#f3f3f3;0%;100%);
+            padding-top: 5px;
+            margin-top: 15px;
+            margin-bottom: 15px;
+            border: 1px solid #c4c4c4;
+            border-radius: @border-radius-base;
+            span {
+                font-weight: bold;
+                font-size: 48px;
+            }
+            .btn {
+                float: right;
+                margin-top: 10px;
+                margin-right: 10px;
+                margin-left: 10px;
+            }
+        }
+    }
+
+    &.blue {
+       
+        .pricing-header {
+            border: 1px solid darken(@blue, 5%);   
+            #gradient.vertical(lighten(@blue-light, 37%);lighten(@blue-light, 27%);0%;100%);
+        }
+        ul.list-group {
+            li {
+                border: 1px solid darken(@blue-light, 5%);
+            }
+        }
+        .pricing-bottom {
+            border: 1px solid darken(@blue-light, 5%);   
+            .price {
+                #gradient.vertical(lighten(@blue-light, 25%);lighten(@blue-light, 15%);0%;100%);
+                border: 1px solid darken(@blue-light, 5%); 
+            }
+        }
+    }
+
+    &.red {
+       
+        .pricing-header {
+            border: 1px solid darken(@red, 5%);   
+            #gradient.vertical(lighten(@red-light, 37%);lighten(@red-light, 27%);0%;100%);
+        }
+        ul.list-group {
+            li {
+                border: 1px solid darken(@red-light, 5%);
+            }
+        }
+        .pricing-bottom {
+            border: 1px solid darken(@red-light, 5%);   
+            .price {
+                #gradient.vertical(lighten(@red-light, 25%);lighten(@red-light, 15%);0%;100%);
+                border: 1px solid darken(@red-light, 5%); 
+            }
+        }
+    }
+
+    &.green {
+       
+        .pricing-header {
+            border: 1px solid darken(@green, 5%);   
+            #gradient.vertical(lighten(@green-light, 37%);lighten(@green-light, 27%);0%;100%);
+        }
+        ul.list-group {
+            li {
+                border: 1px solid darken(@green-light, 5%);
+            }
+        }
+        .pricing-bottom {
+            border: 1px solid darken(@green-light, 5%);   
+            .price {
+                #gradient.vertical(lighten(@green-light, 25%);lighten(@green-light, 15%);0%;100%);
+                border: 1px solid darken(@green-light, 5%); 
+            }
+        }
+    }
+
+    &.yellow {
+       
+        .pricing-header {
+            border: 1px solid darken(@yellow, 5%);   
+            #gradient.vertical(lighten(@yellow-light, 37%);lighten(@yellow-light, 27%);0%;100%);
+        }
+        ul.list-group {
+            li {
+                border: 1px solid darken(@yellow-light, 5%);
+            }
+        }
+        .pricing-bottom {
+            border: 1px solid darken(@yellow-light, 5%);   
+            .price {
+                #gradient.vertical(lighten(@yellow-light, 25%);lighten(@yellow-light, 15%);0%;100%);
+                border: 1px solid darken(@yellow-light, 5%); 
+            }
+        }
+    }
+}

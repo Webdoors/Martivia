@@ -1,0 +1,47 @@
+/* -----------------------------------------
+   List groups
+----------------------------------------- */
+.list-group {
+    .list-group-item {
+        .transition(all);
+        .transition-duration(0.4s);        
+        &:hover {
+            background-color: @dropdown-link-active-bg;
+        }
+
+        &.active {
+            &:hover {
+                background-color: @blue-light;
+                border-color: @blue-light;
+            }
+        }
+
+        &.list-group-item-success {
+            #gradient.vertical(@green-light;@green-dark;0%;100%);
+            &:hover {
+                #gradient.vertical(@green-dark;@green-light;0%;100%);
+            }
+        }
+
+        &.list-group-item-info {
+            #gradient.vertical(@blue-light;@blue-dark;0%;100%);
+            &:hover {
+                #gradient.vertical(@blue-dark;@blue-light;0%;100%);
+            }
+        }
+
+        &.list-group-item-warning {
+            #gradient.vertical(@yellow-light;@yellow-dark;0%;100%);
+            &:hover {
+                #gradient.vertical(@yellow-dark;@yellow-light;0%;100%);
+            }
+        }
+
+        &.list-group-item-danger {
+            #gradient.vertical(@red-light;@red-dark;0%;100%);
+            &:hover {
+                #gradient.vertical(@red-dark;@red-light;0%;100%);
+            }
+        }
+    }
+}

@@ -1,0 +1,45 @@
+/* -----------------------------------------
+   Bootstrap typeahead
+----------------------------------------- */
+.tt-input,
+.tt-hint {
+    width: 260px;
+    height: 24px;
+    padding: 4px 6px;
+    font-size: 16px;
+    line-height: 24px;
+    border: 1px solid @dropdown-border;
+    border-radius: @border-radius-base;
+    outline: none;
+}
+
+.tt-input {
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+}
+
+.tt-hint {
+    color: #999
+}
+
+.tt-dropdown-menu {
+    width: 250px;
+    margin-top: 5px;
+    padding: 5px 0;
+    background-color: @dropdown-bg;
+    border: 1px solid @dropdown-border;
+    border-radius: @border-radius-base;
+    box-shadow: 0 5px 10px rgba(0,0,0,.2);
+}
+
+.tt-suggestion {
+    padding: 3px 10px;
+    font-size: 14px;
+    line-height: 24px;
+}
+.tt-suggestion.tt-cursor {
+    color: @dropdown-link-hover-color;
+    background-color: @dropdown-link-hover-bg;
+}
+.tt-suggestion p {
+    margin: 0;
+}

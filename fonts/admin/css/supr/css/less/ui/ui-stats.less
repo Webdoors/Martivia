@@ -1,0 +1,47 @@
+/* -----------------------------------------
+   Progressbars stats
+----------------------------------------- */
+.progressbars-stats {
+    li {
+        margin-bottom: 10px;
+        &:last-child {margin-bottom: 0;}
+
+        .progressbar-icon {
+            float: left;
+            width: 50px;
+            height: 40px;
+            text-align: center;
+            i { 
+                font-size: 24px; 
+                color: @gray-light; 
+                margin-top: 8px;
+                &[class^="fa"] {
+                    margin-top: 13px; 
+                }
+            }
+        }
+        .progressbar-text {}
+        .progress {}
+    }
+}
+
+.progressbar-stats-1 {
+    color: @white;
+    &.dark { color: lighten(@text-color, 20%);}
+    .stats {
+        i {
+            font-size: 42px;
+            float: left;
+            margin-right: 15px;
+        }
+    }
+    .stats-number {
+        font-size: 42px;
+        margin-top: -10px;
+    }
+}
+
+.money:before {
+    content: '$';
+    margin-right: 5px;
+}

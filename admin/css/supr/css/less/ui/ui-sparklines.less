@@ -1,0 +1,40 @@
+/* -----------------------------------------
+   Sparklines
+----------------------------------------- */
+.spark {
+    display: inline-block;
+    margin-left: @content-padding;
+    .spark-info {
+        font-size: 14px;
+        text-align: left;
+        margin-bottom: 5px;
+
+        .number {font-weight: bold; font-size: 18px; padding-right: 5px; color: @blue-dark;}
+    }
+    .sparkline {
+        width: 100%;
+        display: inline-block;
+        margin-top: 4px;
+    }
+}
+
+.jqstooltip {
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    border-color: @tooltip-bg !important; 
+    .opacity(0.8);
+    font-size: 12px;
+   font-weight: bold;
+   border-radius: @border-radius-base !important;
+   background: @tooltip-bg;  
+   font-family: verdana;
+   width: auto !important;
+   height: auto !important;
+}
+
+.sparkline {
+    width: 100%;
+    display: inline-block;
+    margin-bottom: 5px;
+}

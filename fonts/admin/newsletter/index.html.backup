@@ -1,0 +1,151 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>FourSeasonsGeorgia</title>
+    <link href="https://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700,800" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:200,300,400,500,600,700" rel="stylesheet">
+</head>
+<style media="screen">
+  a {
+    text-decoration: none;
+  }
+  a:hover , a:hover *{
+    color:lightblue !important;
+  }
+</style>
+<body style="padding: 0px; margin: 0px;font-family: 'Raleway', sans-serif;">
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#eee">
+    <tr>
+      <td align="center">
+        <table width="600" border="0" cellspacing="0" cellpadding="0" bgcolor="#fff">
+          <tr>
+          <td align="center">
+              <table width="600" border="0" cellspacing="0" cellpadding="0" style="background:url(https://4seasonsgeorgia.ge/img/newsletterimages/khazbegi.jpg);background-repeat: no-repeat;background-size: cover;color: #fff;">
+                  <tr>
+                    <td align="center" style="padding-top:52px;">
+                      <table width="460" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                          <td align="center">
+                            <img width="250px"height="auto" src="https://4seasonsgeorgia.ge/img/newsletterimages/LOGO1.png" alt="logo">
+                            <h1 style="padding: 0px 10px; margin: 0px; color: #fff; font-weight: 700; font-size: 65px;margin-top:6px;">
+                              Georgia
+                            </h1>
+                            <p style="letter-spacing: 0.2px; color: #fff; font-weight: 500; line-height: 20px; font-size: 10px;width:430px; font-family: 'Montserrat', sans-serif;margin-bottom:16px;">4 Seasons Georgia is a quarterly English Language image magazine about Georgia’s tourism destinations, which has been coming out four times a year since 2020 according to the seasons (Spring, Summer, Autumn, Winter)
+
+                          </p>
+                            <span style="display: block;margin-left: -10px;margin-bottom: 48px;">
+                                <a target="_blank"href="https://www.facebook.com/4seasonsGeo/" style="margin-left:10px;text-decoration:none;">
+                                    <img src="https://4seasonsgeorgia.ge/img/newsletterimages/fb.png" width="30px"alt="facebook">
+                                </a>
+                                <a target="_blank"href="https://www.instagram.com/4_seasons_georgia/" style="margin-left:10px;text-decoration:none;">
+                                    <img src="https://4seasonsgeorgia.ge/img/newsletterimages/insta.png"width="30px" alt="twitter">
+                                </a>
+                                <a target="_blank"href="https://www.4seasonsgeorgia.ge" style="margin-left:10px;text-decoration:none;">
+                                  <img src="https://4seasonsgeorgia.ge/img/newsletterimages/web.png"width="30px" alt="pinterest">
+                                </a>
+                                <a href="mailto:info@4seasonsgeorgia.ge" style="margin-left:10px;text-decoration:none;">
+                                    <img src="https://4seasonsgeorgia.ge/img/newsletterimages/mail.png"width="30px" alt="tumblr">
+                                </a>
+
+                            </span>
+                          </td>
+                        </tr>
+                      </table>
+                  </td>
+                </tr>
+            </table>
+          </td>
+      </tr>
+
+  <tr>
+      <td align="center" style="padding:20px 0;">
+          <table width="420" border="0" cellspacing="0" cellpadding="0" style="font-family: 'Montserrat', sans-serif;">
+              <tr>
+                  <td align="center">
+                      <h2 style="font-family: 'Montserrat', sans-serif; letter-spacing: 0.2px; color: #000; font-weight: 700; font-size: 18px;">
+                          ახალი ჟურნალი ყოველ სეზონზე</h2>
+                      <p style="letter-spacing: 0.2px; color: #000; font-weight: 500; line-height: 20px; font-size: 10px; font-family: 'Montserrat', sans-serif;margin-bottom:16px;">ჩვენი მთავარი მიზანია მკითხველს მაქსიმალურად მივაწვდინოთ საქართველოს მდიდარი ისტორია და კულტურული მემკვიდრეობა, თანამედროვე მიღწევები, ყველაფერი რაც ჩვენს ქვეყანას საინტერესოს ხდის .
+                        წლის ნებისმიერ დროს შეგიძლიათ დასვენება საქართველოში , ჩვენი ქვეყანა ყველა სეზონში მიმზიდველია.</p>
+                  </td>
+              </tr>
+          </table>
+
+      </td>
+  </tr>
+
+  <tr>
+      <td>
+        <table width="600" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="200">
+              <img src="https://4seasonsgeorgia.ge/img/newsletterimages/journal.png"width="100%" alt="journal" style="display: block;">
+            </td>
+            <td width="200">
+              <img src="https://4seasonsgeorgia.ge/img/newsletterimages/journal.png"width="100%" alt="journal" style="display: block;">
+            </td>
+          <td width="200">
+                <img src="https://4seasonsgeorgia.ge/img/newsletterimages/journal.png"width="100%" alt="journal" style="display: block;">
+            </td>
+        </tr>
+        <tr bgcolor="#2e2e2e">
+            <td width="200" align="center">
+              <a href="#">
+              <h5 style="color:#fff;font-weight:500;font-family: 'Montserrat', sans-serif;font-size: 10px;">გაზაფხულის გამოცემა 2020</h5>
+            </a>
+            </td>
+            <td width="200" align="center">
+              <a href="#">
+              <h5 style="color:#fff;font-weight:500;font-family: 'Montserrat', sans-serif;font-size: 10px;">ზაფხულის გამოცემა 2020</h5>
+            </a>
+            </td>
+            <td width="200" align="center">
+              <a href="#">
+              <h5 style="color:#fff;font-weight:500;font-family: 'Montserrat', sans-serif;font-size: 10px;">შემდგომის გამოცემა 2020</h5>
+            </a>
+            </td>
+          </tr>
+        </table>
+      </td>
+  </tr>
+
+      <tr>
+          <td>
+              <table align="center" width="540" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                      <td width="185" style="padding: 40px 30px 20px 30px;">
+                          <h2 style="font-family: 'Montserrat', sans-serif; letter-spacing: 0.2px; color: #000; font-weight: 700; font-size: 18px;text-align:center">ჟურნალის დასახელება ზაფხული 2020</h2>
+                          <p style="letter-spacing: 0.2px; color: #000; font-weight: 500; line-height: 20px; font-size: 10px; font-family: 'Montserrat', sans-serif;margin-bottom:0px;">
+                            The magazine will be released on September 1, and since it is the first anniversary issue, we decided to include all four seasons in it, i.e. spring, summer, autumn and winter in Georgia. The next issues will be released according to the season.
+Thus, ‘4 Seasons’ offers many interesting articles and also informative business materials to the readers, which will give them the opportunity to get to know Georgia better.
+                          </p>
+                          <a  style="text-align:right; display:block"href="https://4seasonsgeorgia.ge/ka/journal">see all</a>
+                      </td>
+                      <td width="245">
+                          <img src="https://4seasonsgeorgia.ge/img/newsletterimages/journal.png" alt="lastimg" style="display: block; width:100%;">
+                      </td>
+                    </tr>
+                  </table>
+              </td>
+          </tr>
+
+          <tr>
+              <td bgcolor="#2e2e2e" style="padding-bottom:25px; padding-top:20px;" align="center">
+                  <p style="letter-spacing: 0.2px; width:420px;color: #ffffff; font-weight: 500; line-height: 20px; font-size: 10px; font-family: 'Montserrat', sans-serif;margin-bottom:16px;margin-top:16px;">
+                    Mail : info@4seasonsgeorgia.ge
+                    <br>
+                    Phone : 032 222 17 55
+                    <br>
+                    10:00 AM - 7:00 PM
+                  </p>
+              </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+
+</body>
+
+</html>

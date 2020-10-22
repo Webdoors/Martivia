@@ -1,0 +1,52 @@
+/* -----------------------------------------
+   Touchspin - spinner
+----------------------------------------- */
+.bootstrap-touchspin {
+    .input-group-btn-vertical {
+        position: relative;
+        white-space: nowrap;
+        width: 1%;
+        vertical-align: middle;
+        display: table-cell;
+
+        > .btn {
+            display: block;
+            float: none;
+            width: 100%;
+            max-width: 100%;
+            padding: 8px 10px 7px;
+            margin-left: -1px;
+            position: relative;
+            border: 1px solid @input-border;
+
+            i {margin-right: 0;}
+        }
+
+        .bootstrap-touchspin-up {
+            border-radius: 0;
+            border-top-right-radius: @border-radius-base;
+        }
+
+        .bootstrap-touchspin-down {
+            margin-top: -2px;
+            border-radius: 0;
+            border-bottom-right-radius: @border-radius-base;
+        }
+
+        i {
+            position: absolute;
+            top: 3px;
+            left: 5px;
+            font-size: 9px;
+            font-weight: normal;
+            color: lighten(@text-color, 30%);
+        }
+    }
+    .bootstrap-touchspin-prefix {border-right: 0;}
+    .bootstrap-touchspin-postfix {border-left: 0;}
+
+    .form-control {
+        border-top-left-radius: @border-radius-base !important;
+        border-bottom-left-radius: @border-radius-base !important;
+    }
+}

@@ -1,0 +1,69 @@
+/* -----------------------------------------
+   Labels
+----------------------------------------- */
+.label {
+    padding: 4px 7px 5px; display: inline-block;
+    font-size: 85%;
+    border-radius: @border-radius-base;
+    border:1px solid transparent;
+
+    &.label-default {
+        color: @text-color;
+        #gradient.vertical(#ffffff;#f3f3f3;0%;100%);
+        border-color: #c4c4c4;
+    }
+    &.label-primary {
+        #gradient.vertical(@blue;@blue-dark;0%;100%);
+        border-color: darken(@blue-dark, 10%);
+    }
+    &.label-info {
+        #gradient.vertical(@blue-light;@blue;0%;100%);
+        border-color: @blue-dark;
+    }
+    &.label-success {
+        #gradient.vertical(@green-light;@green;0%;100%);
+        border-color: @green-dark;
+    }
+    &.label-warning {
+        #gradient.vertical(@yellow-light;@yellow;0%;100%);
+        border-color: @yellow-dark;
+    }
+    &.label-danger {
+        #gradient.vertical(@red-light;@red;0%;100%);
+        border-color: @red-dark;
+    }
+}
+
+/* -----------------------------------------
+   Badges
+----------------------------------------- */
+.badge {
+    padding: 5px 8px;
+    border:1px solid transparent;
+
+    &.badge-primary {
+        #gradient.vertical(@blue;@blue-dark;0%;100%);
+        border-color: darken(@blue-dark, 10%);
+    }
+    &.badge-success {
+        #gradient.vertical(@green-light;@green;0%;100%);
+        border-color: @green-dark;
+    }
+    &.badge-info {
+        #gradient.vertical(@blue-light;@blue;0%;100%);
+        border-color: @blue-dark;
+    }
+    &.badge-warning {
+        #gradient.vertical(@yellow-light;@yellow;0%;100%);
+        border-color: @yellow-dark;
+    }
+    &.badge-danger {
+        #gradient.vertical(@red-light;@red;0%;100%);
+        border-color: @red-dark;
+    }
+    &.badge-default {
+        color: @text-color;
+        #gradient.vertical(#ffffff;#f3f3f3;0%;100%);
+        border-color: #c4c4c4;
+    }
+}

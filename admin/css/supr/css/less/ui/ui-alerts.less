@@ -1,0 +1,107 @@
+/* -----------------------------------------
+   Alerts
+----------------------------------------- */
+.alert {
+    width: 100%;
+    margin: 0 0 15px 0;
+    .close {
+        opacity: 1;
+        margin-right: 5px;
+        text-shadow: none;
+    }
+    >i {
+        margin-right: 8px;
+        margin-top: 2px;
+        margin-left: 0;
+        float: left;
+        &.glyphicon {
+            margin-top: 0px;
+        }
+    }
+
+    padding: 10px 10px 9px 15px;
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
+
+    &.alert-warning {
+        #gradient.vertical(@alert-warning-bg;@alert-warning-bg1;0%;100%);
+        .close {
+            color: @alert-warning-text;
+            &:hover,
+            &:focus {  color: darken(@alert-warning-text, 5%); }
+        }
+    }
+    &.alert-success {
+        #gradient.vertical(@alert-success-bg;@alert-success-bg1;0%;100%);
+        .close {
+            color: @alert-success-text;
+            &:hover,
+            &:focus {  color: darken(@alert-success-text, 5%); }
+        }
+    }
+    &.alert-danger {
+        #gradient.vertical(@alert-danger-bg;@alert-danger-bg1;0%;100%);
+        .close {
+            color: @alert-danger-text;
+            &:hover,
+            &:focus {  color: darken(@alert-danger-text, 5%); }
+        }
+    }
+    &.alert-info {
+        #gradient.vertical(@alert-info-bg;@alert-info-bg1;0%;100%);
+        .close {
+            color: @alert-info-text;
+            &:hover,
+            &:focus {  color: darken(@alert-info-text, 5%); }
+        }
+    }
+}
+
+/* -----------------------------------------
+   Callout
+----------------------------------------- */
+.bs-callout(@color, @bgcolor, @bgcolor1) {
+    display: block;
+    margin: 20px 0;
+    padding: 15px;
+    border: 1px solid @color;
+    border-left-width: 3px;
+    #gradient.vertical(@bgcolor;@bgcolor1;0%;100%);
+
+    h1, h2, h3, h4, h5, h6 {
+        margin-top: 0;
+        color: @color;
+    }
+    p {
+        color: darken(@text-color, 10%);
+    }
+    p:last-child {
+        margin-bottom: 0;
+    }
+    code, .highlight {
+        background-color: #fff;
+    }
+    .close {
+        color: darken(@color, 15%);
+        opacity: 1;
+        &:hover,
+        &:focus {  color: darken(@color, 8%); }
+    }
+}
+
+.bs-callout-danger {
+    .bs-callout(@callout-danger-color, @callout-danger-bg,  @callout-danger-bg1);
+}
+
+
+.bs-callout-warning {
+    .bs-callout(@callout-warning-color, @callout-warning-bg, @callout-warning-bg1);
+}
+
+
+.bs-callout-info {
+    .bs-callout(@callout-info-color, @callout-info-bg, @callout-info-bg1);
+}
+
+.bs-callout-success {
+    .bs-callout(@callout-success-color, @callout-success-bg, @callout-success-bg1);
+}

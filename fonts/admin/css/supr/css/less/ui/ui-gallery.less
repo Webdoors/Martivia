@@ -1,0 +1,47 @@
+/* -----------------------------------------
+   Gallery page
+----------------------------------------- */
+div.gallery-upload {
+    overflow: hidden;
+    position: relative;
+    .dropzone {
+        height: 150px;
+        min-height: 150px;
+        border: 3px dashed @border-color;
+
+        .dz-message {
+            background:none;
+
+            &:after {
+                content: "\f093";
+                top: 50%;
+                height: 50px;
+                font-size: 64px;
+                left: 50%;
+                width: 64px;
+                height: 64px;
+                position: absolute;
+                font-family: FontAwesome;
+                margin-left: -32px;
+                margin-top: -45px;
+                color: @gray-light;
+            }
+        }
+    }
+}
+
+.gallery-category-nav {
+    .list-group {
+        .list-group-item {
+            &.active {
+                #gradient.vertical(#ffffff;#f3f3f3;0%;100%);
+                color: @text-color;
+                border-color: #c4c4c4;
+            }
+            .label {
+                float: right;
+                margin-top: -2px;
+            }
+        }
+    }
+}

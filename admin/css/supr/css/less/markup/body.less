@@ -1,0 +1,172 @@
+/* -----------------------------------------
+   Body styles
+----------------------------------------- */
+
+/*  IE10 and windows phone 8 fix. */
+@-webkit-viewport   { width: device-width; }
+@-moz-viewport      { width: device-width; }
+@-ms-viewport       { width: device-width; }
+@-o-viewport        { width: device-width; }
+@viewport           { width: device-width; }
+
+* { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; outline: none !important; }
+
+html,body{
+    height: 100%;
+}
+html {
+    &.ff3 {
+        min-height: 100%;
+        body {
+            min-height: 100%;
+        }
+    }
+}
+
+body {
+	-webkit-font-smoothing: antialiased;
+	overflow-x:	hidden;
+	background: url(../img/patterns/5.png) repeat;
+    position: relative;
+    direction: ltr;
+
+    &.shrink-header {
+        &.fixed-right-sidebar {
+            #right-sidebar {margin-top: 49px;}
+        }
+        &.fixed-left-sidebar {
+            #sidebar {margin-top: 49px;}
+        }
+    }
+
+    &.fixed-left-sidebar.shrink-header {
+
+        &:not(.fixed-header) {            
+            #sidebar {margin-top: 0;}
+        }
+    }
+
+    &.fixed-right-sidebar.shrink-header {
+        &:not(.fixed-header) {
+            #right-sidebar {margin-top: 0;}            
+        }
+    }
+
+	&.login-page {
+		background: url(../img/patterns/2.png) repeat;
+        #header .navbar-brand {float: none;}
+
+        >.login-container {
+            width: 360px;
+        }
+
+        .login-panel {
+            margin-top: 100px;
+            &:after,
+            &:before {
+                #gradient.vertical(#f8f8f8;#f9f9f9;0%;100%);
+                border: 1px solid #c4c6ca;
+                content: "";
+                display: block;
+                height: 100%;
+                left: -1px;
+                position: absolute;
+                width: 100%;
+            }
+            &:after {
+                -webkit-transform: rotate(2deg);
+                -moz-transform: rotate(2deg);
+                -ms-transform: rotate(2deg);
+                -o-transform: rotate(2deg);
+                transform: rotate(2deg);
+                top: 0;
+                z-index: -1;
+            }
+            &:before {
+                -webkit-transform: rotate(-3deg);
+                -moz-transform: rotate(-3deg);
+                -ms-transform: rotate(-3deg);
+                -o-transform: rotate(-3deg);
+                transform: rotate(-3deg);
+                top: 0;
+                z-index: -2;
+            }
+
+            .user-avatar {
+                text-align: center;
+                #gradient.vertical(#ffffff;#f3f3f3;0%;100%);
+                border-bottom: 1px solid #c4c4c4;
+                padding: 15px 0;
+                margin: 0 -15px 20px;
+                img {
+                    border-radius: 50%;
+                }
+            }
+        }
+
+	}
+
+    &.error-page {
+        background: url(../img/patterns/2.png) repeat;
+
+        >.error-container {
+            width: 480px;
+        }
+
+        .error-panel {
+            margin-top: 100px;
+            &:after,
+            &:before {
+                #gradient.vertical(#f8f8f8;#f9f9f9;0%;100%);
+                border: 1px solid #c4c6ca;
+                content: "";
+                display: block;
+                height: 100%;
+                left: -1px;
+                position: absolute;
+                width: 100%;
+            }
+            &:after {
+                -webkit-transform: rotate(2deg);
+                -moz-transform: rotate(2deg);
+                -ms-transform: rotate(2deg);
+                -o-transform: rotate(2deg);
+                transform: rotate(2deg);
+                top: 0;
+                z-index: -1;
+            }
+            &:before {
+                -webkit-transform: rotate(-3deg);
+                -moz-transform: rotate(-3deg);
+                -ms-transform: rotate(-3deg);
+                -o-transform: rotate(-3deg);
+                transform: rotate(-3deg);
+                top: 0;
+                z-index: -2;
+            }
+
+            h1 {
+                font-size: 10em; 
+                line-height: 1em;
+                font-weight: bold !important;
+            }
+
+            small {font-weight: 700; font-size: 0.3em;}
+
+            &.offline {
+                h1 {font-size: 5em;}
+            }
+        }
+    }
+
+    #wrapper {
+        height: auto;
+        min-height: 100%;
+        position: relative;
+    }
+}
+
+.sortable-layout {
+    min-height: 100px;
+    position: relative;
+}

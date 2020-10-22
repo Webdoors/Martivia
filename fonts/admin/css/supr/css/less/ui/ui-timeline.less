@@ -1,0 +1,175 @@
+/* -----------------------------------------
+   Timeline
+----------------------------------------- */
+.timeline {
+    list-style: none;
+    padding-left: 0;
+    position: relative;
+    &:after {
+        content: "";
+        height: auto;
+        width: 1px;
+        background: @border-color;
+        position: absolute;
+        top: 5px;
+        left: 30px;
+        bottom: 25px;
+    }
+
+     &.timeline-sm {
+        &:after {
+            left: 12px;
+        }
+     }
+
+    li {
+        position: relative;
+        padding-left: 70px;
+        margin-bottom: 20px;
+        &:after {
+            content: "";
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            background: @border-color;
+            position: absolute;
+            left: 24px;
+            top: 5px;
+        }
+
+        .timeline-date {
+            display: inline-block;
+            width: 100%;
+            color: lighten(@text-color, 45%);
+            font-style: italic;
+            font-size: 13px;
+        }
+    }
+
+    &.timeline-icons {
+        li {
+            padding-top: 7px;
+            &:after {
+                width: 32px;
+                height: 32px;
+                background: #fff;
+                border: 1px solid @border-color;
+                left: 14px;
+                top: 0;
+                z-index: 11;
+            }
+            .timeline-icon {
+                position: absolute;
+                left: 22px;
+                top: 7px;
+                z-index: 12;
+
+                i {
+                    font-size: 16px;
+                    margin-left: 0;
+                    margin-right: 0;
+                }
+
+                [class*= glyphicon] {
+                   top:2px !important;
+                }
+            }
+        }
+
+        &.timeline-sm {
+            li  {
+                padding-left: 40px;
+                margin-bottom: 10px;
+                &:after {
+                    left: -5px;
+                }
+                .timeline-icon {
+                    left: 4.5px;
+                }
+            }
+        }
+    }
+
+    &.timeline-advanced {
+        li {
+            padding-top: 0;
+            &:after {
+                background: #fff;
+                border: 1px solid @blue-light;
+            }
+            &:before {
+                content: "";
+                width: 52px;
+                height: 52px;
+                border: 10px solid #fff;
+                position: absolute;
+                left: 4px;
+                top: -10px;
+                border-radius: 50%;
+                z-index: 12;
+            }
+            .timeline-date {
+                width: 75px;
+                position: absolute;
+                right: 5px;
+                top: 3px;
+                text-align: right;
+            }
+            .timeline-title {
+                font-size: 17px;
+                margin-bottom: 0;
+                padding-top: 5px;
+                font-weight: bold;
+            }
+            .timeline-subtitle {
+                display: inline-block;
+                width: 100%;
+                color: lighten(@text-color, 45%);
+            }
+            .timeline-content {
+                margin-top: 10px;
+                margin-bottom: 10px;
+                padding-right: 70px;
+
+                p {margin-bottom: 3px;}
+                .divider-dashed {
+                    padding-top: 0px;
+                    margin-bottom: 7px;
+                    width: 200px;
+                }
+            }
+            .timeline-user {
+                .clearfix();
+                display: inline-block;
+                width: 100%;
+                .timeline-avatar {
+                    border-radius: 50%;
+                    width: 32px;
+                    height: 32px;
+                    float: left;
+                    margin-right: 10px;
+                }
+                .timeline-user-name {
+                    font-weight: bold;
+                    margin-bottom: 0;
+                }
+                .timeline-user-subtitle {
+                    color: lighten(@text-color, 45%);
+                    margin-top: -4px;
+                    margin-bottom: 0;
+                }
+
+                margin-bottom: 10px;
+            }
+            .timeline-link {
+                margin-left: 5px;
+                display: inline-block;
+            }
+        }
+    }
+}
+
+.timeline-load-more-btn {
+    margin-left: 70px;
+    i {margin-right: 5px;}
+}

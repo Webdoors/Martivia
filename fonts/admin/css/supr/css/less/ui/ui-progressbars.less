@@ -1,0 +1,104 @@
+/* -----------------------------------------
+   Progressbars
+----------------------------------------- */
+.progress {
+    height: 15px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    overflow: hidden;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+    background: #e1e1e1;
+    box-shadow: -1px -1px 0 0 #d4d4d4 inset;
+    z-index: 1;
+
+    .progress-bar-white {
+        .progress-bar-variant(@white);
+    }
+    
+    .progress-bar {
+        float: left;
+        width: 0;
+        height: 100%;
+        font-size: 12px;
+        line-height: 16px;
+        color: #fff;
+        text-align: center;
+        -webkit-box-shadow: inset 0 -1px 0 rgba(0,0,0,0.15);
+        box-shadow: inset 0 -1px 0 rgba(0,0,0,0.15);
+        -webkit-transition: width .6s ease;
+        transition: width .6s ease;
+
+        &.animated-bar {
+            -webkit-transition: width 2.50s ease !important;
+             -moz-transition: width 2.50s ease !important;
+               -o-transition: width 2.50s ease !important;
+                  transition: width 2.50s ease !important;
+        }
+
+    }
+
+    &.progress-bar-xs {
+        height: 6px;
+        .progress-bar {
+            line-height: 6px;
+            height: 6px;
+        }
+    }
+
+    &.progress-bar-sm {
+        margin-top: 11px;
+        height: @progressbarHeight/1.5;
+        .progress-bar {
+            line-height:@progressbarHeight/1.5;
+            height: @progressbarHeight/1.5;
+        }
+    }
+    &.progress-bar-lg {
+        height: @progressbarHeight*1.5;
+        .progress-bar {
+            line-height:@progressbarHeight*1.5;
+            height: @progressbarHeight*1.5;
+        }
+    }
+
+    &.flat {
+        border-radius: 0;
+        height: @progressbarHeight;
+        margin-top: 9px;
+        .progress-bar {
+            box-shadow: none;
+            line-height: @progressbarHeight;
+            height: @progressbarHeight;
+            font-size: @progressbarFontSize;
+            margin-top: 0;
+            margin-left: 0;
+            border-radius: 0;
+        }
+        &.progress-bar-xs {
+            height: 4px;
+            .progress-bar {
+                line-height: 4px;
+                height: 4px;
+            }
+        }
+        &.progress-bar-sm {
+            height: @progressbarHeight/2;
+            .progress-bar {
+                line-height:@progressbarHeight/2;
+                height: @progressbarHeight/2;
+            }
+        }
+        &.progress-bar-lg {
+            height: @progressbarHeight*1.5;
+            .progress-bar {
+                line-height:@progressbarHeight*1.5;
+                height: @progressbarHeight*1.5;
+            }
+        }    
+    }
+
+    &.transparent {background-color: rgba(0, 0, 0, 0.28);}
+    &.white {background-color: @white;}
+}

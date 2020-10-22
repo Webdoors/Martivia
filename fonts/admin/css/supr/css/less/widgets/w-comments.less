@@ -1,0 +1,50 @@
+/* -----------------------------------------
+   Recent comments
+----------------------------------------- */
+.recent-comments {
+    margin-bottom: 0;
+    li {
+        border-radius: @border-radius-base;
+        border-color: @border-color;
+        border-left-width: 4px;
+        margin-bottom: 10px;
+        #gradient.vertical(#ffffff;#f3f3f3;0%;100%);
+        .transition(all);
+        .transition-duration(0.4s);
+        &:hover {
+            #gradient.vertical(#f3f3f3;#ffffff;0%;100%);
+            border-color: darken(@border-color, 25%);
+        }
+
+        &.comment-success {
+            border-left-color: @state-success-border;
+            &:hover {
+                border-left-color: darken(@state-success-border, 15%);
+            }
+        }
+        &.comment-danger {
+            border-left-color: @state-danger-border;
+            &:hover {
+                border-left-color: darken(@state-danger-border, 15%);
+            }
+        }
+        &.comment-warning {
+            border-left-color: @state-warning-border;
+            &:hover {
+                border-left-color: darken(@state-warning-border, 15%);
+            }
+        }
+        &.comment-info {
+            border-left-color: @state-info-border;
+            &:hover {
+                border-left-color: darken(@state-info-border, 15%);
+            }
+        }
+        .avatar { 
+            img {border-radius: 50%;}
+        }
+        p {
+            margin-top: 2px;
+        }
+    }
+}

@@ -1,0 +1,8 @@
+[02-Apr-2019 13:50:55 Asia/Tbilisi] PHP Fatal error:  Call to undefined function mb_internal_encoding() in /home/protelle/public_html/beta/wallet/admin/responsive_filemanager/filemanager/config/config.php on line 5
+[08-Oct-2020 15:19:12 Europe/Rome] PHP Fatal error:  Uncaught Error: Call to undefined function mime_content_type() in /home3/easterfe/public_html/beta/admin/responsive_filemanager/filemanager/include/php_image_magician.php:2723
+Stack trace:
+#0 /home3/easterfe/public_html/beta/admin/responsive_filemanager/filemanager/include/php_image_magician.php(230): imageLib->openImage('../../../media/...')
+#1 /home3/easterfe/public_html/beta/admin/responsive_filemanager/filemanager/include/utils.php(425): imageLib->__construct('../../../media/...')
+#2 /home3/easterfe/public_html/beta/admin/responsive_filemanager/filemanager/dialog.php(1083): create_img('../../../media/...', '../../thumbs/lo...', 122, 91, 'crop', Array)
+#3 {main}
+  thrown in /home3/easterfe/public_html/beta/admin/responsive_filemanager/filemanager/include/php_image_magician.php on line 2723

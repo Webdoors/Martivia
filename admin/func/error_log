@@ -1,0 +1,819 @@
+[01-Oct-2020 22:43:20 America/Chicago] PHP Notice:  Trying to get property 'errno' of non-object in /home3/easterfe/public_html/beta/admin/func/addcat.php on line 8
+[01-Oct-2020 22:43:20 America/Chicago] PHP Notice:  Trying to get property 'errno' of non-object in /home3/easterfe/public_html/beta/admin/func/addcat.php on line 8
+[01-Oct-2020 22:43:20 America/Chicago] PHP Notice:  Trying to get property 'errno' of non-object in /home3/easterfe/public_html/beta/admin/func/addcat.php on line 8
+[01-Oct-2020 22:44:21 America/Chicago] PHP Notice:  Trying to get property 'errno' of non-object in /home3/easterfe/public_html/beta/admin/func/addcat.php on line 8
+[01-Oct-2020 22:44:21 America/Chicago] PHP Notice:  Trying to get property 'errno' of non-object in /home3/easterfe/public_html/beta/admin/func/addcat.php on line 8
+[01-Oct-2020 22:44:21 America/Chicago] PHP Notice:  Trying to get property 'errno' of non-object in /home3/easterfe/public_html/beta/admin/func/addcat.php on line 8
+[01-Oct-2020 22:48:39 America/Chicago] PHP Notice:  Trying to get property 'errno' of non-object in /home3/easterfe/public_html/beta/admin/func/addcat.php on line 8
+[01-Oct-2020 22:48:54 America/Chicago] PHP Notice:  Trying to get property 'errno' of non-object in /home3/easterfe/public_html/beta/admin/func/addcat.php on line 8
+[01-Oct-2020 22:51:37 America/Chicago] PHP Notice:  Trying to get property 'errno' of non-object in /home3/easterfe/public_html/beta/admin/func/addcat.php on line 8
+[01-Oct-2020 22:51:52 America/Chicago] PHP Notice:  Trying to get property 'errno' of non-object in /home3/easterfe/public_html/beta/admin/func/addcat.php on line 8
+[01-Oct-2020 22:52:28 America/Chicago] PHP Notice:  Trying to get property 'errno' of non-object in /home3/easterfe/public_html/beta/admin/func/addcat.php on line 8
+[01-Oct-2020 22:52:35 America/Chicago] PHP Notice:  Trying to get property 'errno' of non-object in /home3/easterfe/public_html/beta/admin/func/addcat.php on line 8
+[02-Oct-2020 04:20:46 America/Chicago] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/easterfe/public_html/beta/admin/func/Glogout.php on line 2
+[02-Oct-2020 05:50:55 America/Chicago] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/easterfe/public_html/beta/admin/func/Glogout.php on line 2
+[02-Oct-2020 10:33:07 America/Chicago] PHP Notice:  Undefined index: ka_name in /home3/easterfe/public_html/beta/admin/func/addcat.php on line 2
+[02-Oct-2020 10:33:07 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addcat.php on line 3
+[02-Oct-2020 10:33:07 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addcat.php on line 4
+[02-Oct-2020 10:34:33 America/Chicago] PHP Notice:  Undefined index: ka_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 10:34:33 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 10:34:33 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 10:35:07 America/Chicago] PHP Notice:  Undefined index: ka_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 10:35:07 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 10:35:07 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 10:35:53 America/Chicago] PHP Notice:  Undefined index: ka_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 10:35:53 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 10:35:53 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 10:37:45 America/Chicago] PHP Notice:  Undefined index: ka_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 10:37:45 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 10:37:45 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 10:37:55 America/Chicago] PHP Notice:  Undefined index: ka_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 10:37:55 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 10:37:55 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 10:38:07 America/Chicago] PHP Notice:  Undefined index: ka_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 10:38:07 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 10:38:07 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 10:38:23 America/Chicago] PHP Notice:  Undefined index: ka_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 10:38:23 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 10:38:23 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 10:42:16 America/Chicago] PHP Notice:  Undefined index: ka_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 10:42:16 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 10:42:16 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 10:54:56 America/Chicago] PHP Notice:  Undefined index: ka_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 10:54:56 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 10:54:56 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 10:55:29 America/Chicago] PHP Notice:  Undefined index: ka_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 10:55:29 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 10:55:29 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 10:55:36 America/Chicago] PHP Notice:  Undefined index: ka_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 10:55:36 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 10:55:36 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 10:58:25 America/Chicago] PHP Notice:  Undefined index: ka_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 10:58:25 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 10:58:25 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 10:58:26 America/Chicago] PHP Notice:  Undefined index: ka_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 10:58:26 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 10:58:26 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 11:06:28 America/Chicago] PHP Notice:  Undefined index: ka_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 11:06:28 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 11:06:28 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 11:06:29 America/Chicago] PHP Notice:  Undefined index: ka_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 11:06:29 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 11:06:29 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 11:06:30 America/Chicago] PHP Notice:  Undefined index: ka_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 11:06:30 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 11:06:30 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 11:06:31 America/Chicago] PHP Notice:  Undefined index: ka_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 11:06:31 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 11:06:31 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 11:06:32 America/Chicago] PHP Notice:  Undefined index: ka_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 11:06:32 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 11:06:32 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 11:08:36 America/Chicago] PHP Notice:  Undefined index: ka_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 11:08:36 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 11:08:36 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 11:08:37 America/Chicago] PHP Notice:  Undefined index: ka_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 11:08:37 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 11:08:37 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 11:08:37 America/Chicago] PHP Notice:  Undefined index: ka_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 11:08:37 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 11:08:37 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 11:08:37 America/Chicago] PHP Notice:  Undefined index: ka_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 11:08:37 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 11:08:37 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 11:57:02 America/Chicago] PHP Notice:  Undefined index: ka_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 11:57:02 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 11:57:02 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 11:57:03 America/Chicago] PHP Notice:  Undefined index: ka_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 11:57:03 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 11:57:03 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 11:57:07 America/Chicago] PHP Notice:  Undefined index: ka_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 11:57:07 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 11:57:07 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 11:57:08 America/Chicago] PHP Notice:  Undefined index: ka_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 11:57:08 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 11:57:08 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 11:57:51 America/Chicago] PHP Notice:  Undefined index: ka_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 11:57:51 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 11:57:51 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 11:57:51 America/Chicago] PHP Notice:  Undefined index: ka_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 11:57:51 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 11:57:51 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 11:59:07 America/Chicago] PHP Notice:  Undefined index: ka_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 11:59:07 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 11:59:07 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 11:59:08 America/Chicago] PHP Notice:  Undefined index: ka_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 11:59:08 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 11:59:08 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 12:12:05 America/Chicago] PHP Notice:  Undefined index: ka_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 12:12:05 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 12:12:05 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 12:12:08 America/Chicago] PHP Notice:  Undefined index: ka_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 12:12:08 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 12:12:08 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 12:12:09 America/Chicago] PHP Notice:  Undefined index: ka_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 12:12:09 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 12:12:09 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 12:12:09 America/Chicago] PHP Notice:  Undefined index: ka_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 12:12:09 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 12:12:09 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 12:12:11 America/Chicago] PHP Notice:  Undefined index: ka_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 12:12:11 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 12:12:11 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 12:12:11 America/Chicago] PHP Notice:  Undefined index: ka_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 12:12:11 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 12:12:11 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 12:12:12 America/Chicago] PHP Notice:  Undefined index: ka_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 12:12:12 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 12:12:12 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 12:12:13 America/Chicago] PHP Notice:  Undefined index: ka_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 12:12:13 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 12:12:13 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 12:12:14 America/Chicago] PHP Notice:  Undefined index: ka_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 12:12:14 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 12:12:14 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 12:12:14 America/Chicago] PHP Notice:  Undefined index: ka_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 12:12:14 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 12:12:14 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 12:12:17 America/Chicago] PHP Notice:  Undefined index: ka_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 12:12:17 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 12:12:17 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 12:12:20 America/Chicago] PHP Notice:  Undefined index: ka_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 12:12:20 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 12:12:20 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 12:12:21 America/Chicago] PHP Notice:  Undefined index: ka_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 12:12:21 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 12:12:21 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 12:12:57 America/Chicago] PHP Notice:  Undefined index: ka_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 12:12:57 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 12:12:57 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 12:12:58 America/Chicago] PHP Notice:  Undefined index: ka_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 12:12:58 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 12:12:58 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 12:13:52 America/Chicago] PHP Notice:  Undefined index: ka_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 12:13:52 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 12:13:52 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 12:13:52 America/Chicago] PHP Notice:  Undefined index: ka_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 12:13:52 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 12:13:52 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 12:14:33 America/Chicago] PHP Notice:  Undefined index: ka_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 12:14:33 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 12:14:33 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 12:14:35 America/Chicago] PHP Notice:  Undefined index: ka_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 12:14:35 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 12:14:35 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 12:14:36 America/Chicago] PHP Notice:  Undefined index: ka_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 12:14:36 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 12:14:36 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 12:14:42 America/Chicago] PHP Notice:  Undefined index: ka_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 12:14:42 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 12:14:42 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 12:39:02 America/Chicago] PHP Notice:  Undefined index: ka_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 12:39:02 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 12:39:02 America/Chicago] PHP Notice:  Undefined index: en_name in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 13:01:14 America/Chicago] PHP Notice:  Undefined index: POST in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 13:01:14 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 13:02:01 America/Chicago] PHP Notice:  Undefined index: POST in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 13:02:01 America/Chicago] PHP Notice:  Undefined index: POST in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 13:02:01 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 13:03:25 America/Chicago] PHP Notice:  Undefined index: POST in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 13:03:25 America/Chicago] PHP Notice:  Undefined index:  in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 2
+[02-Oct-2020 13:03:25 America/Chicago] PHP Notice:  Undefined index: POST in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 13:03:25 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 13:03:55 America/Chicago] PHP Notice:  Undefined index: POST in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 13:03:55 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 13:04:32 America/Chicago] PHP Notice:  Undefined index: POST in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 13:04:32 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 13:11:49 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 13:11:55 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 13:12:19 America/Chicago] PHP Parse error:  syntax error, unexpected ')' in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 3
+[02-Oct-2020 13:12:41 America/Chicago] PHP Notice:  Undefined index: addprog in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 13:12:41 America/Chicago] PHP Notice:  Undefined offset: 1 in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 13:12:41 America/Chicago] PHP Notice:  Undefined offset: 2 in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 13:12:41 America/Chicago] PHP Notice:  Undefined offset: 3 in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 13:12:41 America/Chicago] PHP Notice:  Undefined offset: 4 in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 13:12:41 America/Chicago] PHP Notice:  Undefined offset: 5 in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 13:12:41 America/Chicago] PHP Notice:  Undefined offset: 6 in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 13:12:41 America/Chicago] PHP Notice:  Undefined offset: 7 in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 13:12:41 America/Chicago] PHP Notice:  Undefined offset: 8 in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 13:12:41 America/Chicago] PHP Notice:  Undefined offset: 9 in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 13:12:41 America/Chicago] PHP Notice:  Undefined offset: 10 in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 13:12:41 America/Chicago] PHP Notice:  Undefined offset: 11 in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 13:12:41 America/Chicago] PHP Notice:  Undefined offset: 12 in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 13:12:41 America/Chicago] PHP Notice:  Undefined offset: 13 in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 13:12:41 America/Chicago] PHP Notice:  Undefined offset: 14 in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 13:12:41 America/Chicago] PHP Notice:  Undefined offset: 15 in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 13:12:41 America/Chicago] PHP Notice:  Undefined offset: 1 in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 13:13:10 America/Chicago] PHP Notice:  Undefined index: addprog in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 13:13:10 America/Chicago] PHP Notice:  Undefined offset: 1 in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 13:13:10 America/Chicago] PHP Notice:  Undefined offset: 2 in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 13:13:10 America/Chicago] PHP Notice:  Undefined offset: 3 in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 13:13:10 America/Chicago] PHP Notice:  Undefined offset: 4 in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 13:13:10 America/Chicago] PHP Notice:  Undefined offset: 5 in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 13:13:10 America/Chicago] PHP Notice:  Undefined offset: 6 in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 13:13:10 America/Chicago] PHP Notice:  Undefined offset: 7 in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 13:13:10 America/Chicago] PHP Notice:  Undefined offset: 8 in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 13:13:10 America/Chicago] PHP Notice:  Undefined offset: 9 in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 13:13:10 America/Chicago] PHP Notice:  Undefined offset: 10 in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 13:13:10 America/Chicago] PHP Notice:  Undefined offset: 11 in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 13:13:10 America/Chicago] PHP Notice:  Undefined offset: 12 in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 13:13:10 America/Chicago] PHP Notice:  Undefined offset: 13 in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 13:13:10 America/Chicago] PHP Notice:  Undefined offset: 14 in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 13:13:10 America/Chicago] PHP Notice:  Undefined offset: 15 in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 13:13:10 America/Chicago] PHP Notice:  Undefined offset: 1 in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 4
+[02-Oct-2020 13:15:24 America/Chicago] PHP Notice:  Undefined index:  in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 6
+[02-Oct-2020 13:15:24 America/Chicago] PHP Notice:  Undefined index:  in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 6
+[02-Oct-2020 13:15:24 America/Chicago] PHP Notice:  Undefined index:  in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 6
+[02-Oct-2020 13:15:24 America/Chicago] PHP Notice:  Undefined index:  in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 6
+[02-Oct-2020 13:15:24 America/Chicago] PHP Notice:  Undefined index:  in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 6
+[02-Oct-2020 13:15:24 America/Chicago] PHP Notice:  Undefined index:  in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 6
+[02-Oct-2020 13:15:24 America/Chicago] PHP Notice:  Undefined index:  in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 6
+[02-Oct-2020 13:15:24 America/Chicago] PHP Notice:  Undefined index:  in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 6
+[02-Oct-2020 13:15:24 America/Chicago] PHP Notice:  Undefined index:  in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 6
+[02-Oct-2020 13:15:24 America/Chicago] PHP Notice:  Undefined index:  in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 6
+[02-Oct-2020 13:15:24 America/Chicago] PHP Notice:  Undefined index:  in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 6
+[02-Oct-2020 13:15:24 America/Chicago] PHP Notice:  Undefined index:  in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 6
+[02-Oct-2020 13:15:24 America/Chicago] PHP Notice:  Undefined index:  in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 6
+[02-Oct-2020 13:15:24 America/Chicago] PHP Notice:  Undefined index:  in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 6
+[02-Oct-2020 13:15:24 America/Chicago] PHP Notice:  Undefined index:  in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 6
+[02-Oct-2020 13:15:24 America/Chicago] PHP Notice:  Undefined offset: 0 in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 6
+[02-Oct-2020 13:15:36 America/Chicago] PHP Notice:  Undefined index:  in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 6
+[02-Oct-2020 13:15:36 America/Chicago] PHP Notice:  Undefined index:  in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 6
+[02-Oct-2020 13:15:36 America/Chicago] PHP Notice:  Undefined index:  in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 6
+[02-Oct-2020 13:15:36 America/Chicago] PHP Notice:  Undefined index:  in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 6
+[02-Oct-2020 13:15:36 America/Chicago] PHP Notice:  Undefined index:  in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 6
+[02-Oct-2020 13:15:36 America/Chicago] PHP Notice:  Undefined index:  in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 6
+[02-Oct-2020 13:15:36 America/Chicago] PHP Notice:  Undefined index:  in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 6
+[02-Oct-2020 13:15:36 America/Chicago] PHP Notice:  Undefined index:  in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 6
+[02-Oct-2020 13:15:36 America/Chicago] PHP Notice:  Undefined index:  in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 6
+[02-Oct-2020 13:15:36 America/Chicago] PHP Notice:  Undefined index:  in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 6
+[02-Oct-2020 13:15:36 America/Chicago] PHP Notice:  Undefined index:  in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 6
+[02-Oct-2020 13:15:36 America/Chicago] PHP Notice:  Undefined index:  in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 6
+[02-Oct-2020 13:15:36 America/Chicago] PHP Notice:  Undefined index: qq in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 6
+[02-Oct-2020 13:15:36 America/Chicago] PHP Notice:  Undefined index:  in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 6
+[02-Oct-2020 13:15:36 America/Chicago] PHP Notice:  Undefined index: qq in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 6
+[02-Oct-2020 13:15:36 America/Chicago] PHP Notice:  Undefined offset: 0 in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 6
+[02-Oct-2020 13:15:52 America/Chicago] PHP Notice:  Undefined index: addprog in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 6
+[02-Oct-2020 13:15:52 America/Chicago] PHP Notice:  Undefined index:  in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 6
+[02-Oct-2020 13:15:52 America/Chicago] PHP Notice:  Undefined index:  in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 6
+[02-Oct-2020 13:15:52 America/Chicago] PHP Notice:  Undefined index:  in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 6
+[02-Oct-2020 13:15:52 America/Chicago] PHP Notice:  Undefined index:  in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 6
+[02-Oct-2020 13:15:52 America/Chicago] PHP Notice:  Undefined index:  in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 6
+[02-Oct-2020 13:15:52 America/Chicago] PHP Notice:  Undefined index:  in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 6
+[02-Oct-2020 13:15:52 America/Chicago] PHP Notice:  Undefined index:  in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 6
+[02-Oct-2020 13:15:52 America/Chicago] PHP Notice:  Undefined index:  in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 6
+[02-Oct-2020 13:15:52 America/Chicago] PHP Notice:  Undefined index:  in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 6
+[02-Oct-2020 13:15:52 America/Chicago] PHP Notice:  Undefined index:  in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 6
+[02-Oct-2020 13:15:52 America/Chicago] PHP Notice:  Undefined index:  in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 6
+[02-Oct-2020 13:15:52 America/Chicago] PHP Notice:  Undefined index:  in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 6
+[02-Oct-2020 13:15:52 America/Chicago] PHP Notice:  Undefined index: qq in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 6
+[02-Oct-2020 13:15:52 America/Chicago] PHP Notice:  Undefined index:  in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 6
+[02-Oct-2020 13:15:52 America/Chicago] PHP Notice:  Undefined index: qq in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 6
+[02-Oct-2020 13:15:52 America/Chicago] PHP Notice:  Undefined offset: 0 in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 6
+[02-Oct-2020 13:16:26 America/Chicago] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/easterfe/public_html/beta/admin/func/Glogout.php on line 2
+[02-Oct-2020 16:34:03 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[02-Oct-2020 16:34:12 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[02-Oct-2020 16:43:27 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:43:27 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:43:27 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:43:27 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:43:27 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:43:27 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:43:27 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:43:27 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:43:27 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:43:27 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:43:27 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:43:27 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:43:27 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:43:27 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:43:27 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:43:27 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:43:27 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:43:27 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:43:27 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:43:27 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:43:27 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:43:27 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:43:27 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:43:27 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:43:27 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:43:27 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:43:27 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:43:27 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:43:27 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:43:27 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:43:27 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:43:27 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:44:19 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:44:19 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:44:19 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:44:19 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:44:19 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:44:19 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:44:19 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:44:19 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:44:19 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:44:19 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:44:19 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:44:19 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:44:19 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:44:19 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:44:19 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:44:19 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:44:19 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:44:19 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:44:19 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:44:19 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:44:19 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:44:19 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:44:19 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:44:19 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:44:19 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:44:19 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:44:19 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:44:19 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:44:19 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:44:19 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:44:19 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 16:44:19 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[02-Oct-2020 18:10:38 America/Chicago] PHP Warning:  include(updatepage.php): failed to open stream: No such file or directory in /home3/easterfe/public_html/beta/admin/func/func.php on line 8
+[02-Oct-2020 18:10:38 America/Chicago] PHP Warning:  include(): Failed opening 'updatepage.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home3/easterfe/public_html/beta/admin/func/func.php on line 8
+[02-Oct-2020 18:50:12 America/Chicago] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/easterfe/public_html/beta/admin/func/Glogout.php on line 2
+[08-Oct-2020 10:52:32 America/Chicago] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/easterfe/public_html/beta/admin/func/Glogout.php on line 2
+[08-Oct-2020 10:52:37 America/Chicago] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/easterfe/public_html/beta/admin/func/Glogout.php on line 2
+[08-Oct-2020 16:03:59 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:03:59 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:03:59 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:03:59 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:03:59 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:03:59 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:03:59 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:03:59 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:03:59 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:03:59 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:03:59 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:03:59 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:03:59 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:03:59 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:03:59 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:03:59 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:03:59 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:03:59 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:03:59 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:03:59 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:03:59 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:03:59 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:03:59 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:03:59 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:03:59 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:03:59 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:03:59 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:03:59 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:03:59 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:03:59 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:03:59 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:03:59 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:04:20 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:04:20 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:04:20 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:04:20 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:04:20 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:04:20 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:04:20 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:04:20 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:04:20 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:04:20 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:04:20 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:04:20 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:04:20 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:04:20 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:04:20 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:04:20 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:04:20 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:04:20 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:04:20 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:04:20 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:04:20 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:04:20 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:04:20 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:04:20 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:04:20 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:04:20 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:04:20 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:04:20 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:04:20 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:04:20 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:04:20 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:04:20 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:07:29 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:07:29 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:07:29 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:07:29 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:07:29 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:07:29 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:07:29 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:07:29 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:07:29 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:07:29 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:07:29 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:07:29 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:07:29 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:07:29 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:07:29 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:07:29 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:07:29 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:07:29 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:07:29 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:07:29 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:07:29 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:07:29 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:07:29 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:07:29 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:07:29 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:07:29 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:07:29 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:07:29 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:07:29 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:07:29 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:07:29 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:07:29 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:08:26 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:08:26 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:08:26 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:08:26 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:08:26 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:08:26 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:08:26 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:08:26 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:08:26 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:08:26 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:08:26 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:08:26 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:08:26 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:08:26 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:08:26 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:08:26 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:08:26 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:08:26 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:08:26 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:08:26 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:08:26 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:08:26 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:08:26 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:08:26 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:08:26 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:08:26 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:08:26 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:08:26 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:08:26 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:08:26 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:08:26 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:08:26 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:09:01 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:09:01 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:09:01 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:09:01 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:09:01 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:09:01 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:09:01 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:09:01 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:09:01 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:09:01 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:09:01 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:09:01 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:09:01 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:09:01 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:09:01 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:09:01 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:09:01 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:09:01 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:09:01 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:09:01 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:09:01 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:09:01 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:09:01 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:09:01 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:09:01 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:09:01 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:09:01 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:09:01 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:09:01 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:09:01 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:09:01 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:09:01 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:12:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:12:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:12:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:12:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:12:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:12:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:12:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:12:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:12:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:12:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:12:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:12:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:12:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:12:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:12:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:12:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:12:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:12:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:12:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:12:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:12:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:12:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:12:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:12:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:12:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:12:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:12:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:12:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:12:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:12:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:12:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:12:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:12:57 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:12:57 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:12:57 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:12:57 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:12:57 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:12:57 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:12:57 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:12:57 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:12:57 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:12:57 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:12:57 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:12:57 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:12:57 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:12:57 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:12:57 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:12:57 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:12:57 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:12:57 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:12:57 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:12:57 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:12:57 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:12:57 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:12:57 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:12:57 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:12:57 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:12:57 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:12:57 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:12:57 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:12:57 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:12:57 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:12:57 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:12:57 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:13:54 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:13:54 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:13:54 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:13:54 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:13:54 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:13:54 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:13:54 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:13:54 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:13:54 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:13:54 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:13:54 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:13:54 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:13:54 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:13:54 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:13:54 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:13:54 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:13:54 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:13:54 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:13:54 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:13:54 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:13:54 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:13:54 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:13:54 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:13:54 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:13:54 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:13:54 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:13:54 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:13:54 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:13:54 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:13:54 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:13:54 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:13:54 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:16:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:16:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:16:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:16:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:16:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:16:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:16:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:16:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:16:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:16:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:16:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:16:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:16:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:16:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:16:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:16:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:16:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:16:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:16:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:16:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:16:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:16:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:16:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:16:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:16:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:16:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:16:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:16:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:16:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:16:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:16:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:16:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 9
+[08-Oct-2020 16:17:15 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:17:15 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:17:15 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:17:15 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:17:15 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:17:15 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:17:15 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:17:15 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:17:15 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:17:15 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:17:15 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:17:15 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:17:15 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:17:15 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:17:15 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:17:15 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:17:15 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:17:15 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:17:15 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:17:15 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:17:15 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:17:15 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:17:15 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:17:15 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:17:15 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:17:15 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:17:15 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:17:15 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:17:15 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:17:15 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:17:15 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:17:15 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 8
+[08-Oct-2020 16:37:53 America/Chicago] PHP Notice:  Undefined variable: query in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 15
+[08-Oct-2020 16:37:53 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 15
+[08-Oct-2020 16:37:53 America/Chicago] PHP Notice:  Undefined variable: query in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 16
+[08-Oct-2020 16:38:46 America/Chicago] PHP Notice:  Undefined variable: query in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 15
+[08-Oct-2020 16:38:46 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 15
+[08-Oct-2020 16:38:46 America/Chicago] PHP Notice:  Undefined variable: query in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 16
+[08-Oct-2020 16:41:18 America/Chicago] PHP Notice:  Undefined variable: query in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 16
+[08-Oct-2020 16:41:18 America/Chicago] PHP Warning:  mysqli::query(): Empty query in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 16
+[08-Oct-2020 16:41:18 America/Chicago] PHP Notice:  Undefined variable: query in /home3/easterfe/public_html/beta/admin/func/addprog.php on line 17
+[08-Oct-2020 17:22:58 America/Chicago] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/easterfe/public_html/beta/admin/func/Glogout.php on line 2
+[09-Oct-2020 05:59:59 America/Chicago] PHP Warning:  include([object Object].php): failed to open stream: No such file or directory in /home3/easterfe/public_html/beta/admin/func/func.php on line 8
+[09-Oct-2020 05:59:59 America/Chicago] PHP Warning:  include(): Failed opening '[object Object].php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home3/easterfe/public_html/beta/admin/func/func.php on line 8
+[09-Oct-2020 06:00:21 America/Chicago] PHP Warning:  include([object Object].php): failed to open stream: No such file or directory in /home3/easterfe/public_html/beta/admin/func/func.php on line 8
+[09-Oct-2020 06:00:21 America/Chicago] PHP Warning:  include(): Failed opening '[object Object].php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home3/easterfe/public_html/beta/admin/func/func.php on line 8
+[09-Oct-2020 06:01:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::fetch_array() in /home3/easterfe/public_html/beta/admin/func/editprog.php:7
+Stack trace:
+#0 /home3/easterfe/public_html/beta/admin/func/func.php(8): include()
+#1 {main}
+  thrown in /home3/easterfe/public_html/beta/admin/func/editprog.php on line 7
+[09-Oct-2020 06:01:52 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::fetch_array() in /home3/easterfe/public_html/beta/admin/func/editprog.php:7
+Stack trace:
+#0 /home3/easterfe/public_html/beta/admin/func/func.php(8): include()
+#1 {main}
+  thrown in /home3/easterfe/public_html/beta/admin/func/editprog.php on line 7
+[09-Oct-2020 06:04:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::fetch_array() in /home3/easterfe/public_html/beta/admin/func/editprog.php:7
+Stack trace:
+#0 /home3/easterfe/public_html/beta/admin/func/func.php(8): include()
+#1 {main}
+  thrown in /home3/easterfe/public_html/beta/admin/func/editprog.php on line 7
+[09-Oct-2020 06:05:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::fetch_array() in /home3/easterfe/public_html/beta/admin/func/editprog.php:7
+Stack trace:
+#0 /home3/easterfe/public_html/beta/admin/func/func.php(8): include()
+#1 {main}
+  thrown in /home3/easterfe/public_html/beta/admin/func/editprog.php on line 7
+[09-Oct-2020 06:06:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::fetch_array() in /home3/easterfe/public_html/beta/admin/func/editprog.php:8
+Stack trace:
+#0 /home3/easterfe/public_html/beta/admin/func/func.php(8): include()
+#1 {main}
+  thrown in /home3/easterfe/public_html/beta/admin/func/editprog.php on line 8
+[09-Oct-2020 09:52:34 America/Chicago] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/easterfe/public_html/beta/admin/func/Glogout.php on line 2
+[13-Oct-2020 15:38:29 Asia/Tbilisi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/ikaweigh/public_html/admin/func/Glogin.php on line 10
+[13-Oct-2020 15:38:29 Asia/Tbilisi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/ikaweigh/public_html/admin/func/Glogin.php on line 11
+[13-Oct-2020 15:38:41 Asia/Tbilisi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/ikaweigh/public_html/admin/func/Glogin.php on line 10
+[13-Oct-2020 15:38:41 Asia/Tbilisi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/ikaweigh/public_html/admin/func/Glogin.php on line 11
+[13-Oct-2020 15:39:15 Asia/Tbilisi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/ikaweigh/public_html/admin/func/Glogin.php on line 10
+[13-Oct-2020 15:39:15 Asia/Tbilisi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/ikaweigh/public_html/admin/func/Glogin.php on line 11
+[13-Oct-2020 05:46:26 America/Boise] PHP Warning:  include(updatepage.php): failed to open stream: No such file or directory in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[13-Oct-2020 05:46:26 America/Boise] PHP Warning:  include(updatepage.php): failed to open stream: No such file or directory in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[13-Oct-2020 05:46:26 America/Boise] PHP Warning:  include(): Failed opening 'updatepage.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[13-Oct-2020 06:59:37 America/Boise] PHP Warning:  include(updatetable.php): failed to open stream: No such file or directory in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[13-Oct-2020 06:59:37 America/Boise] PHP Warning:  include(updatetable.php): failed to open stream: No such file or directory in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[13-Oct-2020 06:59:37 America/Boise] PHP Warning:  include(): Failed opening 'updatetable.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[13-Oct-2020 07:00:12 America/Boise] PHP Warning:  include(updatetable.php): failed to open stream: No such file or directory in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[13-Oct-2020 07:00:12 America/Boise] PHP Warning:  include(updatetable.php): failed to open stream: No such file or directory in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[13-Oct-2020 07:00:12 America/Boise] PHP Warning:  include(): Failed opening 'updatetable.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[13-Oct-2020 07:03:10 America/Boise] PHP Warning:  include(updatetable.php): failed to open stream: No such file or directory in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[13-Oct-2020 07:03:10 America/Boise] PHP Warning:  include(updatetable.php): failed to open stream: No such file or directory in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[13-Oct-2020 07:03:10 America/Boise] PHP Warning:  include(): Failed opening 'updatetable.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[13-Oct-2020 07:03:36 America/Boise] PHP Warning:  include(updatetable.php): failed to open stream: No such file or directory in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[13-Oct-2020 07:03:36 America/Boise] PHP Warning:  include(updatetable.php): failed to open stream: No such file or directory in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[13-Oct-2020 07:03:36 America/Boise] PHP Warning:  include(): Failed opening 'updatetable.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[13-Oct-2020 07:38:12 America/Boise] PHP Warning:  include(addslide.php): failed to open stream: No such file or directory in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[13-Oct-2020 07:38:12 America/Boise] PHP Warning:  include(addslide.php): failed to open stream: No such file or directory in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[13-Oct-2020 07:38:12 America/Boise] PHP Warning:  include(): Failed opening 'addslide.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[13-Oct-2020 07:53:08 America/Boise] PHP Warning:  include(delslide.php): failed to open stream: No such file or directory in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[13-Oct-2020 07:53:08 America/Boise] PHP Warning:  include(delslide.php): failed to open stream: No such file or directory in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[13-Oct-2020 07:53:08 America/Boise] PHP Warning:  include(): Failed opening 'delslide.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[14-Oct-2020 07:32:26 America/Boise] PHP Warning:  include(artactive.php): failed to open stream: No such file or directory in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[14-Oct-2020 07:32:26 America/Boise] PHP Warning:  include(artactive.php): failed to open stream: No such file or directory in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[14-Oct-2020 07:32:26 America/Boise] PHP Warning:  include(): Failed opening 'artactive.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[15-Oct-2020 03:33:05 America/Boise] PHP Warning:  include(inskeyword.php): failed to open stream: No such file or directory in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[15-Oct-2020 03:33:05 America/Boise] PHP Warning:  include(inskeyword.php): failed to open stream: No such file or directory in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[15-Oct-2020 03:33:05 America/Boise] PHP Warning:  include(): Failed opening 'inskeyword.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[15-Oct-2020 03:43:14 America/Boise] PHP Warning:  include(delete.php): failed to open stream: No such file or directory in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[15-Oct-2020 03:43:14 America/Boise] PHP Warning:  include(delete.php): failed to open stream: No such file or directory in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[15-Oct-2020 03:43:14 America/Boise] PHP Warning:  include(): Failed opening 'delete.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[15-Oct-2020 03:47:26 America/Boise] PHP Warning:  include(delete.php): failed to open stream: No such file or directory in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[15-Oct-2020 03:47:26 America/Boise] PHP Warning:  include(delete.php): failed to open stream: No such file or directory in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[15-Oct-2020 03:47:26 America/Boise] PHP Warning:  include(): Failed opening 'delete.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[15-Oct-2020 03:47:52 America/Boise] PHP Warning:  include(delete.php): failed to open stream: No such file or directory in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[15-Oct-2020 03:47:52 America/Boise] PHP Warning:  include(delete.php): failed to open stream: No such file or directory in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[15-Oct-2020 03:47:52 America/Boise] PHP Warning:  include(): Failed opening 'delete.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[15-Oct-2020 03:53:51 America/Boise] PHP Warning:  include(inskeyword.php): failed to open stream: No such file or directory in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[15-Oct-2020 03:53:51 America/Boise] PHP Warning:  include(inskeyword.php): failed to open stream: No such file or directory in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[15-Oct-2020 03:53:51 America/Boise] PHP Warning:  include(): Failed opening 'inskeyword.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[15-Oct-2020 03:53:51 America/Boise] PHP Warning:  include(inskeyword.php): failed to open stream: No such file or directory in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[15-Oct-2020 03:53:51 America/Boise] PHP Warning:  include(inskeyword.php): failed to open stream: No such file or directory in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[15-Oct-2020 03:53:51 America/Boise] PHP Warning:  include(): Failed opening 'inskeyword.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[15-Oct-2020 03:53:52 America/Boise] PHP Warning:  include(inskeyword.php): failed to open stream: No such file or directory in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[15-Oct-2020 03:53:52 America/Boise] PHP Warning:  include(inskeyword.php): failed to open stream: No such file or directory in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[15-Oct-2020 03:53:52 America/Boise] PHP Warning:  include(): Failed opening 'inskeyword.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[15-Oct-2020 03:59:05 America/Boise] PHP Warning:  include(delkeywords.php): failed to open stream: No such file or directory in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[15-Oct-2020 03:59:05 America/Boise] PHP Warning:  include(delkeywords.php): failed to open stream: No such file or directory in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[15-Oct-2020 03:59:05 America/Boise] PHP Warning:  include(): Failed opening 'delkeywords.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[15-Oct-2020 03:59:07 America/Boise] PHP Warning:  include(delkeywords.php): failed to open stream: No such file or directory in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[15-Oct-2020 03:59:07 America/Boise] PHP Warning:  include(delkeywords.php): failed to open stream: No such file or directory in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[15-Oct-2020 03:59:07 America/Boise] PHP Warning:  include(): Failed opening 'delkeywords.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[15-Oct-2020 03:59:07 America/Boise] PHP Warning:  include(delkeywords.php): failed to open stream: No such file or directory in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[15-Oct-2020 03:59:07 America/Boise] PHP Warning:  include(delkeywords.php): failed to open stream: No such file or directory in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[15-Oct-2020 03:59:07 America/Boise] PHP Warning:  include(): Failed opening 'delkeywords.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[15-Oct-2020 03:59:08 America/Boise] PHP Warning:  include(delkeywords.php): failed to open stream: No such file or directory in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[15-Oct-2020 03:59:08 America/Boise] PHP Warning:  include(delkeywords.php): failed to open stream: No such file or directory in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[15-Oct-2020 03:59:08 America/Boise] PHP Warning:  include(): Failed opening 'delkeywords.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[15-Oct-2020 03:59:09 America/Boise] PHP Warning:  include(delkeywords.php): failed to open stream: No such file or directory in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[15-Oct-2020 03:59:09 America/Boise] PHP Warning:  include(delkeywords.php): failed to open stream: No such file or directory in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[15-Oct-2020 03:59:09 America/Boise] PHP Warning:  include(): Failed opening 'delkeywords.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[15-Oct-2020 04:32:20 America/Boise] PHP Warning:  implode(): Invalid arguments passed in /home2/ikaweigh/public_html/admin/func/savenews.php on line 44
+[16-Oct-2020 06:41:03 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/ikaweigh/public_html/admin/func/delkeywords.php on line 8
+[16-Oct-2020 06:41:50 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/ikaweigh/public_html/admin/func/delkeywords.php on line 8
+[16-Oct-2020 07:14:03 America/Boise] PHP Warning:  implode(): Invalid arguments passed in /home2/ikaweigh/public_html/admin/func/savenews.php on line 35
+[17-Oct-2020 10:29:49 America/Boise] PHP Warning:  implode(): Invalid arguments passed in /home2/ikaweigh/public_html/admin/func/savenutr.php on line 35
+[17-Oct-2020 10:29:55 America/Boise] PHP Warning:  implode(): Invalid arguments passed in /home2/ikaweigh/public_html/admin/func/savenutr.php on line 35
+[17-Oct-2020 10:30:10 America/Boise] PHP Warning:  implode(): Invalid arguments passed in /home2/ikaweigh/public_html/admin/func/savenutr.php on line 35
+[18-Oct-2020 17:04:09 America/Boise] PHP Fatal error:  Cannot redeclare pagination() (previously declared in /home2/ikaweigh/public_html/admin/func/functions.php:18) in /home2/ikaweigh/public_html/admin/func/functions.php on line 54
+[18-Oct-2020 17:04:22 America/Boise] PHP Fatal error:  Cannot redeclare pagination() (previously declared in /home2/ikaweigh/public_html/admin/func/functions.php:18) in /home2/ikaweigh/public_html/admin/func/functions.php on line 54
+[18-Oct-2020 17:05:07 America/Boise] PHP Fatal error:  Cannot redeclare pagination() (previously declared in /home2/ikaweigh/public_html/admin/func/functions.php:18) in /home2/ikaweigh/public_html/admin/func/functions.php on line 54
+[18-Oct-2020 17:07:31 America/Boise] PHP Fatal error:  Cannot redeclare pagination() (previously declared in /home2/ikaweigh/public_html/admin/func/functions.php:18) in /home2/ikaweigh/public_html/admin/func/functions.php on line 54
+[18-Oct-2020 17:09:21 America/Boise] PHP Fatal error:  Cannot redeclare embedurl() (previously declared in /home2/ikaweigh/public_html/admin/func/functions.php:60) in /home2/ikaweigh/public_html/admin/func/savenews.php on line 7
+[18-Oct-2020 17:11:05 America/Boise] PHP Fatal error:  Cannot redeclare embedurl() (previously declared in /home2/ikaweigh/public_html/admin/func/functions.php:60) in /home2/ikaweigh/public_html/admin/func/savenews.php on line 9
+[18-Oct-2020 17:12:41 America/Boise] PHP Fatal error:  Cannot redeclare embedurl() (previously declared in /home2/ikaweigh/public_html/admin/func/functions.php:60) in /home2/ikaweigh/public_html/admin/func/savenews.php on line 9
+[18-Oct-2020 17:14:21 America/Boise] PHP Fatal error:  Cannot redeclare embedurl() (previously declared in /home2/ikaweigh/public_html/admin/func/functions.php:60) in /home2/ikaweigh/public_html/admin/func/savenews.php on line 14
+[18-Oct-2020 17:16:07 America/Boise] PHP Fatal error:  Cannot redeclare embedurl() (previously declared in /home2/ikaweigh/public_html/admin/func/functions.php:60) in /home2/ikaweigh/public_html/admin/func/savenews.php on line 14
+[18-Oct-2020 17:17:37 America/Boise] PHP Notice:  Undefined index: k in /home2/ikaweigh/public_html/admin/func/savenews.php on line 28
+[18-Oct-2020 17:17:37 America/Boise] PHP Notice:  Undefined offset: 1 in /home2/ikaweigh/public_html/admin/func/savenews.php on line 12
+[18-Oct-2020 17:19:11 America/Boise] PHP Notice:  Undefined index: k in /home2/ikaweigh/public_html/admin/func/savenews.php on line 19
+[18-Oct-2020 17:19:11 America/Boise] PHP Notice:  Undefined offset: 1 in /home2/ikaweigh/public_html/admin/func/savenews.php on line 39
+[18-Oct-2020 17:20:46 America/Boise] PHP Notice:  Undefined index: k in /home2/ikaweigh/public_html/admin/func/savenews.php on line 19
+[18-Oct-2020 17:20:46 America/Boise] PHP Notice:  Undefined offset: 1 in /home2/ikaweigh/public_html/admin/func/savenews.php on line 39
+[18-Oct-2020 17:49:34 America/Boise] PHP Parse error:  syntax error, unexpected '}' in /home2/ikaweigh/public_html/admin/func/savenews.php on line 28
+[19-Oct-2020 05:16:34 America/Boise] PHP Warning:  implode(): Invalid arguments passed in /home2/ikaweigh/public_html/admin/func/savenews.php on line 80
+[19-Oct-2020 05:16:34 America/Boise] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function thumb(), 0 passed in /home2/ikaweigh/public_html/admin/func/savenews.php on line 31 and exactly 1 expected in /home2/ikaweigh/public_html/admin/func/savenews.php:59
+Stack trace:
+#0 /home2/ikaweigh/public_html/admin/func/savenews.php(31): thumb()
+#1 /home2/ikaweigh/public_html/admin/func/func.php(8): include('/home2/ikaweigh...')
+#2 {main}
+  thrown in /home2/ikaweigh/public_html/admin/func/savenews.php on line 59
+[19-Oct-2020 05:17:16 America/Boise] PHP Warning:  implode(): Invalid arguments passed in /home2/ikaweigh/public_html/admin/func/savenews.php on line 80
+[19-Oct-2020 05:17:30 America/Boise] PHP Warning:  implode(): Invalid arguments passed in /home2/ikaweigh/public_html/admin/func/savenews.php on line 80
+[19-Oct-2020 05:19:35 America/Boise] PHP Warning:  implode(): Invalid arguments passed in /home2/ikaweigh/public_html/admin/func/savenews.php on line 80
+[19-Oct-2020 05:20:03 America/Boise] PHP Warning:  implode(): Invalid arguments passed in /home2/ikaweigh/public_html/admin/func/savenews.php on line 80
+[19-Oct-2020 05:20:21 America/Boise] PHP Warning:  implode(): Invalid arguments passed in /home2/ikaweigh/public_html/admin/func/savenews.php on line 80
+[19-Oct-2020 06:51:41 America/Boise] PHP Warning:  include(categoryactive.php): failed to open stream: No such file or directory in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[19-Oct-2020 06:51:41 America/Boise] PHP Warning:  include(categoryactive.php): failed to open stream: No such file or directory in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[19-Oct-2020 06:51:41 America/Boise] PHP Warning:  include(): Failed opening 'categoryactive.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[19-Oct-2020 06:58:02 America/Boise] PHP Warning:  include(changecatpos.php): failed to open stream: No such file or directory in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[19-Oct-2020 06:58:02 America/Boise] PHP Warning:  include(changecatpos.php): failed to open stream: No such file or directory in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[19-Oct-2020 06:58:02 America/Boise] PHP Warning:  include(): Failed opening 'changecatpos.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[19-Oct-2020 06:58:10 America/Boise] PHP Warning:  include(changecatpos.php): failed to open stream: No such file or directory in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[19-Oct-2020 06:58:10 America/Boise] PHP Warning:  include(changecatpos.php): failed to open stream: No such file or directory in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[19-Oct-2020 06:58:10 America/Boise] PHP Warning:  include(): Failed opening 'changecatpos.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[19-Oct-2020 07:08:40 America/Boise] PHP Warning:  include(categoryactive.php): failed to open stream: No such file or directory in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[19-Oct-2020 07:08:40 America/Boise] PHP Warning:  include(categoryactive.php): failed to open stream: No such file or directory in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[19-Oct-2020 07:08:40 America/Boise] PHP Warning:  include(): Failed opening 'categoryactive.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home2/ikaweigh/public_html/admin/func/func.php on line 8
+[21-Oct-2020 08:35:08 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/ikaweigh/public_html/admin/func/pagetext.php on line 8
+[21-Oct-2020 08:35:14 America/Boise] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/ikaweigh/public_html/admin/func/pagetext.php on line 8

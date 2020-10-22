@@ -1,0 +1,34 @@
+/* -----------------------------------------
+  Panel groups -  Accordions
+----------------------------------------- */
+.panel-group {
+    .panel {
+        border-radius: @border-radius-base;
+        .panel-heading {
+            border-radius: @border-radius-base;
+            .panel-title {
+                font-size: 14px;
+                color: @white;
+                width: 100%;
+
+                .accordion-toggle {
+                    width: 100%;
+                    display: inline-block;
+                    i {
+                        float: right;
+                        margin-right: 15px;
+                        margin-top: 1px;
+                    }
+                }
+            }
+
+            &.content-in {
+                border-bottom-left-radius: 0;
+                border-bottom-right-radius: 0;
+            }
+        }
+        &.panel-default {
+           .panel-title {color: @text-color;}
+        }
+    }
+}

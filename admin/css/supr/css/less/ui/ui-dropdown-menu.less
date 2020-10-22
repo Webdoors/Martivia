@@ -1,0 +1,51 @@
+/* -----------------------------------------
+   Dropdown menus
+----------------------------------------- */
+.dropdown-menu {
+    border-radius: @dropdown-border-radius;
+    .divider {margin:1px 0;}
+    .box-shadow(0 4px 10px rgba(0,0,0,.175));
+    padding: 0;
+    // Links within the dropdown menu
+    li {
+        padding: 0;
+        border-radius: @dropdown-border-radius;
+
+        &.divider {
+            padding: 0;
+        }
+
+        a {
+            padding: 8px 20px;
+            color: @dropdown-link-color;
+            .transition(all);
+            .transition-duration(0.4s);
+
+            i {
+                margin-right: 10px;
+                font-size: 16px;
+            }
+        }
+    }
+
+    &:before {
+        left: 50%;
+        margin-left: -8px;
+    }
+
+    &.right {
+        right: 0;
+        left: auto;
+        margin-left: 0;
+        &:before { left: auto !important; right: 17px;}
+        &:after {left: auto !important;  right: 18px;}
+    }
+    &.left {
+        left: 0;
+        right: auto;
+        margin-left: 0;
+        &:before { right: auto !important; left: 29px;}
+        &:after {right: auto !important;  left: 29px;}
+    }
+
+}

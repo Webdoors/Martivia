@@ -1,0 +1,86 @@
+/* -----------------------------------------
+   Sidebar widget
+----------------------------------------- */
+.sidebar-widget {
+    position: relative;
+    margin:-1px 0 10px 0; 
+    display: block; 
+    float: left; 
+    width: 100%;
+
+    .content {
+        padding:0px 10px;
+        position: relative;
+    }
+
+    .title {
+        background: url(../img/patterns/3.png) repeat;
+        padding: 8px 15px 7px;
+        margin-top: 0;
+        border-top: 1px solid #c4c4c4;
+        border-bottom: 1px solid #c4c4c4;
+        -moz-box-shadow:0 1px 0px rgba(255, 255, 255, 1);
+        -webkit-box-shadow: 0 1px 0px rgba(255, 255, 255, 1);
+        box-shadow: 0 1px 0px rgba(255, 255, 255, 1);
+    }
+
+    .progress {
+        margin-bottom: 2px;
+        width:65%;
+    }
+
+    .percent {
+        position: absolute;
+        right:10px;
+        top:-1px;
+        font-weight: 700;
+    }
+
+    .stat {
+        font-size: 11px;
+        display: inline-block;
+        width: 100%;
+        margin-top: 2px;
+        text-align: center;
+    }
+
+    ul {padding-left: 0;list-style: none;}
+
+    /*Sidebar Widget stats*/
+    .stats {
+        position: relative; 
+        margin: 0px -10px;
+
+        .item {
+            width: 90px; 
+            float: left; 
+            margin-left:10px; 
+            margin-bottom: 5px;
+
+            i.s16 {line-height: 18px;margin-top: 5px;}
+
+            .head {border-bottom: 1px solid #ebebeb; padding-bottom: 4px; margin-bottom: 8px}
+            .number{font-size: 20px; font-weight: 700; float: left; width: 48%;}
+            .txt {float: left;}
+            .change {
+                float: left; margin-top:5px;
+                i {margin-left:-2px; margin-right:0;}
+            }
+            .spark {float: left; margin-top:10px; margin-left:5px;}
+
+        }
+    }
+
+    /*Rightnow stats style*/
+    .rightnow {
+        position: relative;
+        ul {
+            margin-left:10px;
+            li {
+                line-height: 24px;
+                margin-bottom: 5px;
+                .number {font-size: 18px; font-weight: 700; margin-right:10px; width:30px; float: left; text-align: right; color: #2C7282;}
+            }
+        }
+    }
+}

@@ -1,0 +1,52 @@
+[01-Oct-2020 07:28:36 America/Chicago] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/easterfe/public_html/beta/admin/func/Glogin.php on line 2
+[01-Oct-2020 16:28:36 Asia/Tbilisi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home3/easterfe/public_html/beta/admin/func/Glogin.php on line 7
+[01-Oct-2020 16:28:36 Asia/Tbilisi] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home3/easterfe/public_html/beta/admin/func/Glogin.php on line 10
+[01-Oct-2020 16:28:36 Asia/Tbilisi] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home3/easterfe/public_html/beta/admin/func/Glogin.php on line 11
+[01-Oct-2020 07:46:50 America/Chicago] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/easterfe/public_html/beta/admin/func/Glogin.php on line 2
+[01-Oct-2020 07:48:39 America/Chicago] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/easterfe/public_html/beta/admin/func/Glogin.php on line 2
+[01-Oct-2020 07:49:04 America/Chicago] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/easterfe/public_html/beta/admin/func/Glogin.php on line 2
+[01-Oct-2020 07:50:48 America/Chicago] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/easterfe/public_html/beta/admin/func/Glogin.php on line 2
+[01-Oct-2020 07:51:46 America/Chicago] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/easterfe/public_html/beta/admin/func/Glogin.php on line 2
+[01-Oct-2020 07:52:29 America/Chicago] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/easterfe/public_html/beta/admin/func/Glogin.php on line 2
+[01-Oct-2020 16:52:29 Asia/Tbilisi] PHP Notice:  Undefined index: Id in /home3/easterfe/public_html/beta/admin/func/Glogin.php on line 12
+[01-Oct-2020 07:52:54 America/Chicago] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/easterfe/public_html/beta/admin/func/Glogin.php on line 2
+[01-Oct-2020 16:52:54 Asia/Tbilisi] PHP Notice:  Undefined index: Id in /home3/easterfe/public_html/beta/admin/func/Glogin.php on line 12
+[01-Oct-2020 07:53:45 America/Chicago] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/easterfe/public_html/beta/admin/func/Glogin.php on line 2
+[01-Oct-2020 16:53:45 Asia/Tbilisi] PHP Notice:  Undefined index: Id in /home3/easterfe/public_html/beta/admin/func/Glogin.php on line 13
+[01-Oct-2020 07:54:14 America/Chicago] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/easterfe/public_html/beta/admin/func/Glogin.php on line 2
+[01-Oct-2020 16:54:14 Asia/Tbilisi] PHP Notice:  Undefined index: Id in /home3/easterfe/public_html/beta/admin/func/Glogin.php on line 12
+[01-Oct-2020 07:54:18 America/Chicago] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/easterfe/public_html/beta/admin/func/Glogin.php on line 2
+[01-Oct-2020 16:54:18 Asia/Tbilisi] PHP Notice:  Undefined index: Id in /home3/easterfe/public_html/beta/admin/func/Glogin.php on line 12
+[01-Oct-2020 07:55:23 America/Chicago] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/easterfe/public_html/beta/admin/func/Glogin.php on line 2
+[01-Oct-2020 16:55:23 Asia/Tbilisi] PHP Notice:  Undefined index: Id in /home3/easterfe/public_html/beta/admin/func/Glogin.php on line 12
+[01-Oct-2020 08:00:41 America/Chicago] PHP Warning:  session_name(): Cannot change session name when session is active in /home3/easterfe/public_html/beta/admin/func/Glogin.php on line 2
+[01-Oct-2020 08:00:41 America/Chicago] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/easterfe/public_html/beta/admin/func/Glogin.php on line 3
+[01-Oct-2020 17:00:41 Asia/Tbilisi] PHP Notice:  Undefined index: Id in /home3/easterfe/public_html/beta/admin/func/Glogin.php on line 13
+[01-Oct-2020 08:01:27 America/Chicago] PHP Warning:  session_name(): Cannot change session name when session is active in /home3/easterfe/public_html/beta/admin/func/Glogin.php on line 2
+[01-Oct-2020 08:01:27 America/Chicago] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/easterfe/public_html/beta/admin/func/Glogin.php on line 3
+[01-Oct-2020 08:01:58 America/Chicago] PHP Warning:  session_name(): Cannot change session name when session is active in /home3/easterfe/public_html/beta/admin/func/Glogin.php on line 2
+[01-Oct-2020 08:01:58 America/Chicago] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/easterfe/public_html/beta/admin/func/Glogin.php on line 3
+[01-Oct-2020 08:06:03 America/Chicago] PHP Warning:  session_name(): Cannot change session name when session is active in /home3/easterfe/public_html/beta/admin/func/Glogin.php on line 2
+[01-Oct-2020 08:06:03 America/Chicago] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/easterfe/public_html/beta/admin/func/Glogin.php on line 3
+[01-Oct-2020 08:06:12 America/Chicago] PHP Warning:  session_name(): Cannot change session name when session is active in /home3/easterfe/public_html/beta/admin/func/Glogin.php on line 2
+[01-Oct-2020 08:06:12 America/Chicago] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/easterfe/public_html/beta/admin/func/Glogin.php on line 3
+[01-Oct-2020 08:06:46 America/Chicago] PHP Warning:  session_name(): Cannot change session name when session is active in /home3/easterfe/public_html/beta/admin/func/Glogin.php on line 2
+[01-Oct-2020 08:06:46 America/Chicago] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/easterfe/public_html/beta/admin/func/Glogin.php on line 3
+[01-Oct-2020 08:07:51 America/Chicago] PHP Warning:  session_name(): Cannot change session name when session is active in /home3/easterfe/public_html/beta/admin/func/Glogin.php on line 2
+[01-Oct-2020 08:07:51 America/Chicago] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/easterfe/public_html/beta/admin/func/Glogin.php on line 3
+[01-Oct-2020 08:12:32 America/Chicago] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/easterfe/public_html/beta/admin/func/Glogout.php on line 2
+[01-Oct-2020 08:42:39 America/Chicago] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/easterfe/public_html/beta/admin/func/addadmin.php on line 2
+[01-Oct-2020 08:42:39 America/Chicago] PHP Notice:  Undefined index: e in /home3/easterfe/public_html/beta/admin/func/addadmin.php on line 8
+[01-Oct-2020 08:42:57 America/Chicago] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/easterfe/public_html/beta/admin/func/addadmin.php on line 2
+[01-Oct-2020 08:42:57 America/Chicago] PHP Notice:  Undefined index: e in /home3/easterfe/public_html/beta/admin/func/addadmin.php on line 8
+[01-Oct-2020 08:43:58 America/Chicago] PHP Warning:  include(addadmin.php): failed to open stream: No such file or directory in /home3/easterfe/public_html/beta/admin/func/func.php on line 7
+[01-Oct-2020 08:43:58 America/Chicago] PHP Warning:  include(): Failed opening 'addadmin.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home3/easterfe/public_html/beta/admin/func/func.php on line 7
+[01-Oct-2020 08:50:10 America/Chicago] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/easterfe/public_html/beta/admin/func/addadmin.php on line 2
+[01-Oct-2020 08:51:22 America/Chicago] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/easterfe/public_html/beta/admin/func/deladmin.php on line 2
+[01-Oct-2020 08:51:32 America/Chicago] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/easterfe/public_html/beta/admin/func/deladmin.php on line 2
+[01-Oct-2020 08:53:39 America/Chicago] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/easterfe/public_html/beta/admin/func/deladmin.php on line 2
+[01-Oct-2020 08:53:45 America/Chicago] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/easterfe/public_html/beta/admin/func/deladmin.php on line 2
+[01-Oct-2020 08:57:54 America/Chicago] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/easterfe/public_html/beta/admin/func/deladmin.php on line 2
+[01-Oct-2020 08:58:33 America/Chicago] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/easterfe/public_html/beta/admin/func/deladmin.php on line 2
+[01-Oct-2020 08:58:55 America/Chicago] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/easterfe/public_html/beta/admin/func/deladmin.php on line 2
+[01-Oct-2020 09:02:27 America/Chicago] PHP Notice:  session_start(): A session had already been started - ignoring in /home3/easterfe/public_html/beta/admin/func/deladmin.php on line 2

@@ -1,0 +1,38 @@
+/* -----------------------------------------
+   Easy pie charts
+----------------------------------------- */
+.easyPieChart {position: relative; text-align: center;}
+.easyPieChart canvas {position: absolute;top: 0; left: 0;}
+
+.pie-charts {
+    display: inline-block;
+    text-align: center;
+    padding: 0 12px;
+    margin-bottom: 20px;
+    .easyPieChart {
+        font-weight: bold;
+    }
+    div.label {
+        color: @text-color;
+        font-size: 100%;
+        width: 100%;
+        float: left;
+        margin-top: 10px;
+    }
+    &.red-pie {
+        .easyPieChart {color: @red;}
+        div.label {color: @red;}
+    }
+    &.green-pie {
+        .easyPieChart {color: @green;}
+        div.label {color: @green;}
+    }
+    &.blue-pie {
+        .easyPieChart {color: @blue;}
+        div.label {color: @blue;}
+    }
+    &.yellow-pie {
+        .easyPieChart {color: @yellow;}
+        div.label {color: @yellow;}
+    }
+}

@@ -1,0 +1,72 @@
+/* -----------------------------------------
+   Knobs - Circular progress stats
+----------------------------------------- */
+.circle-stats {
+    text-align: center; 
+    margin-top:-5px; 
+    position: relative;
+
+    .circular-item {
+        position: relative; 
+        width:82px; height: 82px;
+        margin-right:20px; 
+        margin-bottom: 10px; 
+        display: inline-block;
+
+        .icon {
+            font-size: 20px; 
+            position: absolute; 
+            top:48%; 
+            left:50%; 
+            margin-top: -18px; 
+            margin-left: -10px;
+        }
+
+        input {
+            cursor: default;
+            box-shadow: none;
+            border:none;
+            height: auto;
+            position: absolute;
+            top:15px;
+            border-color: rgba(82, 168, 236, 0.8);
+
+            &:focus {
+                outline: 0;
+                outline: thin dotted 0;
+                /* IE6-9 */
+                -webkit-box-shadow: none;
+                -moz-box-shadow: none;
+                 box-shadow: none;
+            }
+        }
+    }
+
+    .circular-progress-item {
+        position: relative; 
+        width:82px; 
+        height: 82px;
+        margin-right:20px; 
+        margin-bottom: 10px; 
+        display: inline-block;
+
+        input {
+            cursor: default;
+            box-shadow: none;
+            border:none;
+            height: auto;
+            position: absolute;
+            top:0px;
+            border-color: rgba(82, 168, 236, 0.8);
+
+            &:focus {
+                outline: 0;
+                outline: thin dotted 0;
+                /* IE6-9 */
+                -webkit-box-shadow: none;
+                -moz-box-shadow: none;
+                 box-shadow: none;
+            }
+        }
+    }
+}

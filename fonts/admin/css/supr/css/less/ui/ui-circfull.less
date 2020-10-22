@@ -1,0 +1,25 @@
+/* -----------------------------------------
+   Circfull progress bars
+----------------------------------------- */
+.circliful {
+    position: relative; 
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    .circle-text, 
+    .circle-info, 
+    .circle-text-half, 
+    .circle-info-half {
+        width: 100%;
+        position: absolute;
+        text-align: center;
+        display: inline-block;
+        color: @text-color;
+        font-weight: bold;
+    }
+    .circle-text-half {top: 8px;}
+    i {
+        margin: 5px 3px 0 3px;
+        position: relative;
+    }
+}

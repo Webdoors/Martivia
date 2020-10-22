@@ -1,0 +1,81 @@
+/* -----------------------------------------
+   Invoice page
+----------------------------------------- */
+.invoice {
+    position: relative;
+
+    .content {
+        padding-left:25px; 
+        padding-right: 25px;
+    }
+
+    .invoice-info {
+        float: right; 
+        margin-right: 10px;
+        font-size: 12px; 
+        width: 100px; 
+        padding: 5px 0;
+
+        .number {float: left;}
+        .data {float: left;}
+    }
+
+    .print {
+        float: right; 
+        margin-right: 25px;
+        margin-top: 5px;
+
+        a {
+            float: left;
+            padding:0;
+            width:40px;
+            height: 36px;
+            border: 1px solid;
+            border-radius: 2px;
+            -webkit-border-radius: 2px;
+            -moz-border-radius: 2px;
+            position: relative;
+            -webkit-text-shadow: 0 1px 0 white;
+            -moz-text-shadow: 0 1px 0 white;
+            text-shadow: 0 1px 0 white;
+            border-color: #CCC #CCC #AAA;
+            background-color: #E0E0E0;
+            -moz-box-shadow: inset 0 0 1px #fff;
+            -ms-box-shadow: inset 0 0 1px #fff;
+            -webkit-box-shadow: inset 0 0 1px white;
+            box-shadow: inset 0 0 1px white;
+            #gradient.vertical(#fafafa;#dcdcdc;0%;100%);
+            span {margin-left: 7px !important; display: inline-block;}
+
+            &:hover {
+                #gradient.vertical(#e8e8e8;#f9f9f9;0%;100%);
+                border:1px solid;
+                text-decoration:none;
+                border-color: rgb(170, 170, 170) rgb(170, 170, 170) rgb(153, 153, 153);
+                -webkit-box-shadow:  0px 1px 2px rgba(0, 0, 0, 0.25), 0px 0px 3px rgb(255, 255, 255) inset;
+                -moz-box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.25), 0px 0px 3px rgb(255, 255, 255) inset;
+                box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.25), 0px 0px 3px rgb(255, 255, 255) inset;
+                -webkit-transition: background 0.5s ease-in-out;
+                -moz-transition: background 0.5s ease-in-out;
+                -ms-transition: background 0.5s ease-in-out;
+                -o-transition: background 0.5s ease-in-out;
+                transition: background 0.5s ease-in-out;
+            }
+        }
+    }
+    .you {float: left; margin-bottom: 15px;}
+    .client {float: right;}
+    .payment {float: left;}
+    .total {
+        float: right; 
+        margin-right: 20px;
+        span {font-size: 20px;}
+    }
+    .invoice-footer {
+        border: 1px solid #c4c4c4;
+        padding:10px 0;
+        margin-top: 10px;
+        background: #f1f1f1;
+        p {margin-left: 20px; margin-top: 10px;}
+    }
+}

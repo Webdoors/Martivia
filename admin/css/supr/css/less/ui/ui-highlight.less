@@ -1,0 +1,11 @@
+/* -----------------------------------------
+   Highlight rows (tables, list and etc )
+----------------------------------------- */
+.highlight {
+    background: @table-highlight-bg;
+    td {background: @table-highlight-bg;};
+
+    &:hover {
+        background: darken(@table-highlight-bg, 5%) !important;
+    }
+}

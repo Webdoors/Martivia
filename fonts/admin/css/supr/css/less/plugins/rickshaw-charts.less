@@ -1,0 +1,379 @@
+.rickshaw_graph {
+    position: relative;
+
+    .detail {
+        pointer-events: none;
+        position: absolute;
+        top: 0;
+        z-index: 2;
+        background: rgba(0, 0, 0, 0.1);
+        bottom: 0;
+        width: 1px;
+        transition: opacity 0.25s linear;
+        -moz-transition: opacity 0.25s linear;
+        -o-transition: opacity 0.25s linear;
+        -webkit-transition: opacity 0.25s linear;
+
+        &.inactive { opacity: 0; }
+
+        .item {
+            &.active { .opacity(@tooltip-opacity);}
+            position: absolute;
+            z-index: 2;
+            opacity: 0;
+            margin-left: 1em;
+            margin-right: 1em;
+            margin-top: -1em;
+            white-space: nowrap;
+            max-width: @tooltip-max-width;
+            padding: 3px 8px;
+            color: @tooltip-color;
+            text-align: center;
+            text-decoration: none;
+            background-color: @tooltip-bg;
+            border-radius: @border-radius-base;
+            font-family: @font-family-base;
+            font-size: @font-size-small;
+            font-weight: normal;
+            line-height: 1.4;
+            .left {
+                left: 0;
+                &:after {
+                    top: 1em;
+                    left: -5px;
+                    margin-top: -5px;
+                    border-right-color: rgba(0, 0, 0, 0.8);
+                    border-left-width: 0;
+                }
+            }
+            .right {
+                right: 0;
+                &:after {
+                    top: 1em;
+                    right: -5px;
+                    margin-top: -5px;
+                    border-left-color: rgba(0, 0, 0, 0.8);
+                    border-right-width: 0;
+                }
+            }
+            &:after {
+                position: absolute;
+                display: block;
+                width: 0;
+                height: 0;
+                content: "";
+                border: 5px solid transparent;
+            }
+        }
+
+        .x_label {
+            position: absolute;
+            white-space: nowrap;
+            &.left {left: 0;}
+            &.right {right: 0;}
+            max-width: @tooltip-max-width;
+            padding: 3px 8px;
+            color: @tooltip-color;
+            text-align: center;
+            text-decoration: none;
+            background-color: @tooltip-bg;
+            border-radius: @border-radius-base;
+            font-family: @font-family-base;
+            font-size: @font-size-small;
+            font-weight: normal;
+            line-height: 1.4;
+            .opacity(@tooltip-opacity);
+        }
+
+        .dot {
+            width: 4px;
+            height: 4px;
+            margin-left: -3px;
+            margin-top: -3.5px;
+            border-radius: 5px;
+            position: absolute;
+            //box-shadow: 0 0 2px rgba(0, 0, 0, 0.6);
+            box-sizing: content-box;
+            -moz-box-sizing: content-box;
+            background: white;
+            border-width: 2px;
+            border-style: solid;
+            display: none;
+            background-clip: padding-box;
+            &.active {display: block;}
+        }
+    }
+
+    svg {
+        display: block; 
+        overflow: hidden;
+    }
+
+    .x_tick {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        width: 0px;
+        border-left: 1px solid rgba(0, 0, 0, 0.2);
+        pointer-events: none;
+
+        .title {
+            position: absolute;
+            font-size: 12px;
+            font-family: 'Open Sans';
+            opacity: 0.5;
+            white-space: nowrap;
+            margin-left: 3px;
+            bottom: 1px;
+        }
+    }
+
+    .annotation_line {
+        position: absolute;
+        top: 0;
+        bottom: -6px;
+        width: 0px;
+        border-left: 2px solid rgba(0, 0, 0, 0.3);
+        display: none;
+        &.active {display: block;}
+    }
+
+    .annotation_range {
+        background: rgba(0, 0, 0, 0.1);
+        display: none;
+        position: absolute;
+        top: 0;
+        bottom: -6px;
+        &.active {
+            display: block;
+            .offscreen {display: none;}
+        }
+    }
+
+    .y_axis,
+    .x_axis_d3 {
+        fill: none;
+    }
+
+}
+
+/* annotations */
+.rickshaw_annotation_timeline {
+    height: 1px;
+    border-top: 1px solid #c4c4c4;
+    margin-top: 10px;
+    position: relative;
+
+    .annotation {
+        position: absolute;
+        height: 6px;
+        width: 6px;
+        margin-left: -2px;
+        top: -3px;
+        border-radius: 5px;
+        background-color: rgba(0, 0, 0, 0.25);
+
+        .content {
+            background: white;
+            color: black;
+            opacity: 0.9;
+            padding: 5px 5px;
+            box-shadow: 0 0 2px rgba(0, 0, 0, 0.8);
+            border-radius: 3px;
+            position: relative;
+            z-index: 20;
+            font-size: 12px;
+            padding: 6px 8px 8px;
+            top: 18px;
+            left: -11px;
+            width: 160px;
+            display: none;
+            cursor: pointer;
+            &:before {
+                content: "\25b2";
+                position: absolute;
+                top: -11px;
+                color: white;
+                text-shadow: 0 -1px 1px rgba(0, 0, 0, 0.8);
+            }
+            &:hover {
+                z-index: 50;
+            }
+        }
+
+        &.active,
+        &:hover {
+            background-color: rgba(0, 0, 0, 0.8);
+            cursor: none;
+        }
+
+        &.active {
+            .content { display: block;}
+        }
+        &:hover {
+            .content {
+                display: block;
+                z-index: 50;
+            }
+        }
+    }
+}
+
+.rickshaw_graph .y_ticks .tick line,
+.rickshaw_graph .x_ticks_d3 .tick {
+    stroke: rgba(0, 0, 0, 0.16);
+    stroke-width: 2px;
+    shape-rendering: crisp-edges;
+    pointer-events: none;
+}
+.rickshaw_graph .y_grid .tick,
+.rickshaw_graph .x_grid_d3 .tick {
+    z-index: -1;
+    stroke: rgba(0, 0, 0, 0.10);
+    stroke-width: 0.5px;
+}
+.rickshaw_graph .y_grid .tick[data-y-value="0"] {
+    //stroke-dasharray: 1 0;
+}
+.rickshaw_graph .y_grid path,
+.rickshaw_graph .x_grid_d3 path  {
+    fill: none;
+    stroke: none;
+}
+.rickshaw_graph .y_ticks path,
+.rickshaw_graph .x_ticks_d3 path {
+    fill: none;
+    stroke: #f3f3f3;
+}
+.rickshaw_graph .y_ticks text,
+.rickshaw_graph .x_ticks_d3 text {
+    opacity: 0.5;
+    font-size: 12px;
+    pointer-events: none;
+}
+.rickshaw_graph .x_tick.glow .title,
+.rickshaw_graph .y_ticks.glow text {
+    fill: black;
+    color: black;
+    text-shadow: 
+        -1px 1px 0 rgba(255, 255, 255, 0.1),
+        1px -1px 0 rgba(255, 255, 255, 0.1),
+        1px 1px 0 rgba(255, 255, 255, 0.1),
+        0px 1px 0 rgba(255, 255, 255, 0.1),
+        0px -1px 0 rgba(255, 255, 255, 0.1),
+        1px 0px 0 rgba(255, 255, 255, 0.1),
+        -1px 0px 0 rgba(255, 255, 255, 0.1),
+        -1px -1px 0 rgba(255, 255, 255, 0.1);
+}
+.rickshaw_graph .x_tick.inverse .title,
+.rickshaw_graph .y_ticks.inverse text {
+    fill: white;
+    color: white;
+    text-shadow: 
+        -1px 1px 0 rgba(0, 0, 0, 0.8),
+        1px -1px 0 rgba(0, 0, 0, 0.8),
+        1px 1px 0 rgba(0, 0, 0, 0.8),
+        0px 1px 0 rgba(0, 0, 0, 0.8),
+        0px -1px 0 rgba(0, 0, 0, 0.8),
+        1px 0px 0 rgba(0, 0, 0, 0.8),
+        -1px 0px 0 rgba(0, 0, 0, 0.8),
+        -1px -1px 0 rgba(0, 0, 0, 0.8);
+}
+.rickshaw_legend {
+    font-family: Arial;
+    font-size: 12px;
+    color: white;
+    background: #c4c4c4;
+    display: inline-block;
+    padding: 12px 5px; 
+    border-radius: 2px;
+    position: relative;
+}
+.rickshaw_legend:hover {
+    z-index: 10;
+}
+.rickshaw_legend .swatch {
+    width: 10px;
+    height: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+}
+.rickshaw_legend .line {
+    clear: both;
+    line-height: 140%;
+    padding-right: 15px;
+}
+.rickshaw_legend .line .swatch {
+    display: inline-block;
+    margin-right: 3px;
+    border-radius: 2px;
+}
+.rickshaw_legend .label {
+    margin: 0;
+    white-space: nowrap;
+    display: inline;
+    font-size: inherit;
+    background-color: transparent;
+    color: inherit;
+    font-weight: normal;
+    line-height: normal;
+    padding: 0px;
+    text-shadow: none;
+}
+.rickshaw_legend .action:hover {
+    opacity: 0.6;
+}
+.rickshaw_legend .action {
+    margin-right: 0.2em;
+    font-size: 10px;
+    opacity: 0.2;
+    cursor: pointer;
+    font-size: 14px;
+}
+.rickshaw_legend .line.disabled {
+    opacity: 0.4;
+}
+.rickshaw_legend ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin: 2px;
+    cursor: pointer;
+}
+.rickshaw_legend li {
+    padding: 0 0 0 2px;
+    min-width: 80px;
+    white-space: nowrap;
+}
+.rickshaw_legend li:hover {
+    background: rgba(255, 255, 255, 0.08);
+    border-radius: 3px;
+}
+.rickshaw_legend li:active {
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 3px;
+}
+
+.chart-y_axis-outside {
+    position: relative;
+    left: 20px;
+    display: block;
+    &.chart-dots {left: 15px;}
+}
+.y_axis-outside {
+    position: absolute;
+    top: 24px;
+    bottom: 0;
+    width: 20px;
+
+    .y_ticks {
+        g:first-child {
+            text {display: none;}
+        }
+    }
+}
+.x_axis-outside {
+    position: relative;
+    left: 20px;
+    height: 20px;
+    &.chart-dots {left: 15px;}
+}

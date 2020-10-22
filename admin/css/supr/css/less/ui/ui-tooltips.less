@@ -1,0 +1,33 @@
+/* -----------------------------------------
+   Flot chart tooltips
+----------------------------------------- */
+#flotTip {
+    /* white-space: nowrap;
+    display: inline-block; */
+    max-width: @tooltip-max-width;
+    padding: 3px 8px;
+    color: @tooltip-color;
+    text-align: center;
+    text-decoration: none;
+    background-color: @tooltip-bg !important;
+    border-radius: @border-radius-base !important;
+    border-width: 0 !important;
+    z-index: 100;
+    .opacity(0.8);
+    font-family: "Open Sans";
+    font-size: 12px;
+}
+
+.tickLabel {
+    font-family: "Open Sans"; font-size: 11px;
+    text-align: center;
+    font-weight: normal;
+}
+
+/* Fix incorrect position */
+.tooltip {
+    &.top,
+    &.bottom {
+        margin-left: 0;
+    }
+}

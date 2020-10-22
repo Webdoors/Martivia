@@ -1,0 +1,57 @@
+/* -----------------------------------------
+   Pagination and pagers
+----------------------------------------- */
+.pagination {
+    height: auto;
+    margin: 0 0 18px 0;
+    >li {
+        &.active {
+            a,
+            a:hover {
+                box-shadow: 0 1px 0 #eaeaea ,0 1px 0 #67c3da inset !important;
+                #gradient.vertical(@blue-light;@blue;0%;100%);
+                border-color: @blue-dark;
+                color: @white;
+            }
+        }
+        &:last-child {
+            a,
+            span { margin-right: 0;}
+        }
+        a {
+            cursor: pointer;
+            .transition(background);
+            .transition-duration(0.4s);
+            margin-right: 3px;
+            border-radius: @border-radius-base;
+            #gradient.vertical(#ffffff;#f3f3f3;0%;100%);
+            border: 1px solid #c4c4c4;
+            padding: 6px 15px;
+            margin-bottom: 5px;
+            box-shadow: 0 1px 0 #eaeaea ,0 1px 0 #fff inset !important;
+            font-weight: bold;
+            .transition(all);
+            .transition-duration(0.4s);
+            &:hover {
+                border: 1px solid #a3a3a3;
+                background: #e8e6e6;
+            }
+        }
+    }
+}
+
+.pager {
+    >li {
+        a {
+            .transition(background);
+            .transition-duration(0.4s);
+            #gradient.vertical(#ffffff;#f3f3f3;0%;100%);
+            border: 1px solid #c4c4c4;
+
+            &:hover {
+                border: 1px solid #a3a3a3;
+                background: #e8e6e6;
+            }
+        }
+    }
+}
