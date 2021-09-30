@@ -44,7 +44,7 @@ b - Parameters Object {key:value,key:value};
 
 See func function from main.js
 <pre>
-function func(a,b){
+function func(a,b,callback = null){
     var FD = new FormData();
     FD.append('function',a);
 		for (var key in b) {
@@ -69,6 +69,9 @@ function func(a,b){
 				}
 				if(a=="register"){
 					location.reload();
+				}
+				if (result !="") {
+					callback(result);
 				}
 			}
 		}
