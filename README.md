@@ -44,14 +44,16 @@ b - Parameters Object {key:value,key:value};
 
 See func function from main.js
 <pre>
+// a is a function name
+// b is a params{key:value} object 
 function func(a,b,callback = null){
-    var FD = new FormData();
-    FD.append('function',a);
-		for (var key in b) {
-			if(b!=undefined){
-				FD.append(key,b[key]);			
-			}
+	var FD = new FormData();
+	FD.append('fname', a);
+	for (var key in b) {
+		if (b != undefined) {
+			FD.append(key, b[key]);
 		}
+	}
 	$.ajax({  
 		type: "POST", 
 		cache: false,
@@ -61,15 +63,6 @@ function func(a,b,callback = null){
 		data: FD,
 		success: function (result) {
 			if (result) {
-				if(a=="logout"){
-					location.reload();
-				}
-				if(a=="login"){
-					location.reload();
-				}
-				if(a=="register"){
-					location.reload();
-				}
 				if (result !="") {
 					callback(result);
 				}
@@ -78,14 +71,12 @@ function func(a,b,callback = null){
 	});
 }
 
-
-
 //Logout Example
 $(document).on("click",".LGT",function(){
-	func("logout");
+	func("logout",{},function(){
+		wr();
+	});
 });
-
-
 
 //Login Example
 $(document).on("click",".SIIN",function(){
@@ -93,8 +84,14 @@ $(document).on("click",".SIIN",function(){
 		email: $(".A1").val(), 
 		password:$(".A2").val()
 	};
-	func("login",params);
+	func("login",params,function(){
+		wr();
+	});
 });
+
+function wr(){
+	location.reload();
+}
 </pre>
 
 # Documentation
