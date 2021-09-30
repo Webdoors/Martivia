@@ -22,7 +22,7 @@ Martivia is a cross platform (Php,Python,Node.js,c#,java and etc.) web applicati
 
 4.Upload admin_martivia.sql to Database. 
 
-5.Delete file from root.
+5.Delete admin_martivia.sql file from root.
 
 4.config.php.
 
