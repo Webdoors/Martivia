@@ -81,7 +81,7 @@ $(document).on("click",".CHE2",function(){
 		message: 'დარწმუნებული ხართ?',
 		callback: function (result) {
 			if(result){
-				func("checks",k,de,c);	
+				func("checks",{a:k,b:de,c:c});	
 			}else{
 				window.location.reload();
 			}
