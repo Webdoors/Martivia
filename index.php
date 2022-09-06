@@ -3,6 +3,7 @@ date_default_timezone_set('Asia/Tbilisi');
 session_name('atelier_site');
 session_start();
 mb_internal_encoding("UTF-8");
+include("config.php");
 include("db.php");
 if(isset($_COOKIE['kbag'])) {
 	$bag=$_COOKIE['kbag'];
