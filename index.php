@@ -4,7 +4,7 @@ session_name('atelier_site');
 session_start();
 mb_internal_encoding("UTF-8");
 include("config.php");
-include("db.php");
+include("db_open.php");
 if(isset($_COOKIE['kbag'])) {
 	$bag=$_COOKIE['kbag'];
 }else{
