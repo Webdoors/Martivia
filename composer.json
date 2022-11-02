@@ -1,3 +1,17 @@
 {
-
+	"name": "Webdoors/Martivia",
+	"type": "library",
+	"description": "PHP Framework",
+	"keywords": ["php", "pdf", "utf-8"],
+	"homepage": "https://webdoors.ge",
+	"license": ["GPL-2.0-only"],
+	"authors": [
+		{
+			"name": "Irakli Shalamberidze",
+			"role": "Developer, maintainer"
+		}
+	],
+	"require": {
+		"php": "^5.6 || ^7.0 || ~8.0.0 || ~8.1.0",
+	},
 }
