@@ -1,5 +1,5 @@
 {
-	"name": "Webdoors/Martivia",
+	"name": "webdoors/martivia",
 	"type": "library",
 	"description": "PHP Framework",
 	"keywords": ["php", "pdf", "utf-8"],
