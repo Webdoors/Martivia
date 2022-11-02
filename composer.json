@@ -13,5 +13,13 @@
 	],
 	"require": {
 		"php": "^5.6 || ^7.0 || ~8.0.0 || ~8.1.0"
+	},
+	"scripts": {
+		"post-install-cmd": [
+			"php -r \"chmod('./tmp', 0777);\""
+		]
+	},
+	"config": {
+		"sort-packages": true
 	}
 }
