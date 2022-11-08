@@ -4,8 +4,8 @@
 	
 <a href="https://webdoors.ge"><img src="https://raw.githubusercontent.com/Webdoors/Martivia/master/img/build.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/webdoors/martivia"><img src="https://img.shields.io/packagist/dt/webdoors/martivia" alt="Total Downloads"></a>
-<a href="https://webdoors.ge"><img src="https://raw.githubusercontent.com/Webdoors/Martivia/master/img/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://webdoors.ge"><img src="https://raw.githubusercontent.com/Webdoors/Martivia/master/img/license2.svg" alt="License"></a>
+<a href="https://packagist.org/packages/webdoors/martivia"><img src="https://img.shields.io/packagist/v/webdoors/martivia" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/webdoors/martivia"><img src="https://img.shields.io/packagist/l/webdoors/martivia" alt="License"></a>
 </p>
 
 # About Martivia
