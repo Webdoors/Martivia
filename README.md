@@ -18,7 +18,7 @@ Installation
 Official installation method is via composer and its packagist package [webdoors/martivia](https://packagist.org/packages/webdoors/martivia).
 
 ```
-$ composer require webdoors/martivia
+$ composer create-project webdoors/martivia example-app
 ```
 Or
 
