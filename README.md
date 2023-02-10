@@ -17,6 +17,8 @@ Installation
 
 Official installation method is via composer and its packagist package [webdoors/martivia](https://packagist.org/packages/webdoors/martivia).
 
+(Also Download XAMPP for php apache engine and mysql database)
+
 ```
 $ composer create-project webdoors/martivia example-app
 ```
