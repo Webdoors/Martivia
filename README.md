@@ -32,9 +32,9 @@ Or
 
 4.Import admin_martivia.sql to Database. 
 
-5.Delete admin_martivia.sql file from root.
+5.Delete admin_martivia.sql file from root folder.
 
-4.config.php.
+4.configure config.php file.
 
 
 # How it works
