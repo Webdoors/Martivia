@@ -109,7 +109,7 @@ function wr(){
 
 Martivia consists of css,func,js,view folders and index.php, db_open.php, db_close.php. View folder consists of inc and pages folders.
 
-The page routing is driven by $_GET method or by redirecting all request to index.php and chunking url by "/" partsfor beautiful url.
+The page routing is driven by $_GET method or by redirecting all request to index.php and chunking url by "/" parts for beautiful url.
 
 For Example: https://example.com?page=login or https://example.com/login
 
