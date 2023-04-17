@@ -56,56 +56,6 @@ a - Function Name
 b - Parameters Object {key:value,key:value};
 
 See func function from main.js
-<pre>
-// a is a function name
-// b is a params{key:value} object 
-function func(a,b,callback = null){
-	var FD = new FormData();
-	FD.append('fname', a);
-	for (var key in b) {
-		if (b != undefined) {
-			FD.append(key, b[key]);
-		}
-	}
-	$.ajax({  
-		type: "POST", 
-		cache: false,
-		contentType: false,
-		processData: false, 
-		url: "func/func.php",
-		data: FD,
-		success: function (result) {
-			if (result) {
-				if (result !="") {
-					callback(result);
-				}
-			}
-		}
-	});
-}
-
-//Logout Example
-$(document).on("click",".LGT",function(){
-	func("logout",{},function(){
-		wr();
-	});
-});
-
-//Login Example
-$(document).on("click",".SIIN",function(){
-	var params = {
-		email: $(".A1").val(), 
-		password:$(".A2").val()
-	};
-	func("login",params,function(){
-		wr();
-	});
-});
-
-function wr(){
-	location.reload();
-}
-</pre>
 
 # Documentation
 
