@@ -27,6 +27,7 @@ $ composer create-project webdoors/martivia example-app
 Or
 ```
 $ git clone https://github.com/Webdoors/Martivia
+$ cd Martivia
 $ docker-compose build 
 $ docker compose up -d 
 ```
