@@ -26,6 +26,12 @@ $ composer create-project webdoors/martivia example-app
 ```
 Or
 
+git clone https://github.com/Webdoors/Martivia
+docker-compose build 
+docker compose up -d 
+
+Or
+
 1.Just download.
 
 2.Create databasse.
