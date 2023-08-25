@@ -35,7 +35,7 @@ Or
 
 1.Just download.
 
-2.Create database.
+2.Create database admin_martivia.
 
 3.Upload files in your Directory.
 
