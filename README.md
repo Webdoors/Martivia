@@ -25,11 +25,11 @@ Official installation method is via composer and its packagist package [webdoors
 $ composer create-project webdoors/martivia example-app
 ```
 Or
-
+```
 $ git clone https://github.com/Webdoors/Martivia
 $ docker-compose build 
 $ docker compose up -d 
-
+```
 Or
 
 1.Just download.
