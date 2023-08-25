@@ -43,7 +43,7 @@ Or
 
 5.Delete admin_martivia.sql file from root folder.
 
-4.configure config.php file.
+4.configure .env file.
 
 
 # How it works
