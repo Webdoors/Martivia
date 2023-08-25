@@ -2,7 +2,7 @@ version: '3'
 
 services:
   web:
-    image: php:7.4-apache
+    build: . # This will use the Dockerfile in the current directory to build the image
     container_name: web_container
     ports:
       - "8080:80"
@@ -12,6 +12,9 @@ services:
       - db
     environment:
       DATABASE_HOST: db
+      MYSQL_USER: root
+      MYSQL_PASSWORD: 
+      MYSQL_DATABASE: admin_martivia
 
   db:
     image: mysql:5.7
@@ -21,7 +24,7 @@ services:
       MYSQL_ALLOW_EMPTY_PASSWORD: "yes"
     volumes:
       - db_data:/var/lib/mysql
-      - ./admin_martivia.sql:/docker-entrypoint-initdb.d/admin_martivia.sql
+      - ./sql/admin_martivia.sql:/docker-entrypoint-initdb.d/admin_martivia.sql
 
 volumes:
   db_data:
