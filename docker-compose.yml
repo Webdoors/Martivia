@@ -12,9 +12,9 @@ services:
       - db
     environment:
       DATABASE_HOST: db
-      MYSQL_USER: root
-      MYSQL_PASSWORD: 
-      MYSQL_DATABASE: admin_martivia
+      MYSQL_USER: ${MYSQL_USER}
+      MYSQL_PASSWORD: ${MYSQL_PASSWORD}
+      MYSQL_DATABASE: ${MYSQL_DATABASE}
 
   db:
     image: mysql:5.7
