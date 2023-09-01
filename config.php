@@ -9,7 +9,7 @@ $db_name="admin_martivia";
 $langdir="lang/";
 $incdir="view/inc/";
 $pgdir="view/pages/";
-$funcf="func/func.php"
+$funcf="func/func.php";
 
 function loadDotenv($filePath)
 {
