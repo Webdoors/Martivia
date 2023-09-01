@@ -3,6 +3,7 @@ version: '3'
 services:
   web:
     build: . # This will use the Dockerfile in the current directory to build the image
+    image: webdoors/martivia-web:latest
     container_name: web_container
     ports:
       - "8080:80"
