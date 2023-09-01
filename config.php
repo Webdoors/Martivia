@@ -11,4 +11,39 @@ $incdir="view/inc/";
 $pgdir="view/pages/";
 $funcf="func/func.php"
 
+function loadDotenv($filePath)
+{
+    // Check if the file exists
+    if (!file_exists($filePath)) {
+        throw new Exception('.env file does not exist.');
+    }
+
+    // Read the file line by line
+    $lines = file($filePath, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
+    if ($lines === false) {
+        throw new Exception('Failed to read .env file.');
+    }
+
+    foreach ($lines as $line) {
+        // Remove comments and trim whitespace
+        $line = trim(preg_replace('/\s*#.*$/', '', $line));
+
+        // Skip empty lines after removing comments
+        if (empty($line)) {
+            continue;
+        }
+
+        // Split the line into name and value
+        list($name, $value) = explode('=', $line, 2);
+
+        // Remove quotes from the value
+        $value = trim($value, "'\"");
+
+        // Use putenv to set the environment variable
+        putenv("$name=$value");
+    }
+}
+
+// Usage
+loadDotenv(__DIR__ . '/.env');
 ?>

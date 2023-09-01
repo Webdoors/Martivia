@@ -25,10 +25,17 @@ Official installation method is via composer and its packagist package [webdoors
 $ composer create-project webdoors/martivia example-app
 ```
 Or
+```
+$ git clone https://github.com/Webdoors/Martivia
+$ cd Martivia
+$ docker-compose build 
+$ docker compose up -d 
+```
+Or
 
 1.Just download.
 
-2.Create databasse.
+2.Create database admin_martivia.
 
 3.Upload files in your Directory.
 
@@ -36,7 +43,7 @@ Or
 
 5.Delete admin_martivia.sql file from root folder.
 
-4.configure config.php file.
+4.configure .env file.
 
 
 # How it works
