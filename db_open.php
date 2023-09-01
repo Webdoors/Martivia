@@ -1,5 +1,8 @@
 <?php
-
+$host = getenv('DATABASE_HOST');
+$db_user = getenv('MYSQL_USER');
+$db_pass = getenv('MYSQL_PASSWORD');
+$db_name = getenv('MYSQL_DATABASE');
 $con=new mysqli($host, $db_user, $db_pass, $db_name);
 if($con->connect_error){
     die("Failed to connect to MySQL Database: " ."<br>Errno:".$con->connect_errno."<br>Reason:".$con->connect_error);
