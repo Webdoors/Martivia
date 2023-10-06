@@ -2,10 +2,10 @@
 define("BASE_PATH", $_SERVER["DOCUMENT_ROOT"]);
 // echo BASE_PATH;
 
-$host="localhost";
-$db_user="admin_martivia";
-$db_pass="#Martivia#123";
-$db_name="admin_martivia";
+//$host="localhost";
+//$db_user="admin_martivia";
+//$db_pass="#Martivia#123";
+//$db_name="admin_martivia";
 $langdir="lang/";
 $incdir="view/inc/";
 $pgdir="view/pages/";
@@ -34,7 +34,12 @@ function loadDotenv($filePath)
         }
 
         // Split the line into name and value
-        list($name, $value) = explode('=', $line, 2);
+        $parts = explode('=', $line, 2);
+        if (count($parts) !== 2) {
+            // Skip lines that don't have a valid format
+            continue;
+        }
+        list($name, $value) = $parts;
 
         // Remove quotes from the value
         $value = trim($value, "'\"");
@@ -43,7 +48,6 @@ function loadDotenv($filePath)
         putenv("$name=$value");
     }
 }
-
 // Usage
 loadDotenv(__DIR__ . '/.env');
 ?>

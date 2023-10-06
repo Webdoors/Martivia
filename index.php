@@ -42,8 +42,8 @@ if(isset($_GET["page"])||isset($_GET["address"])){
 if(isset($_GET["address"])){
 	$page=$_GET["address"];
 }
-if($p1!=""){
-	$page=$p1;	
+if($p3!=""){
+	$page=$p3;
 }
 
 include("view/pages/".$page.".php");

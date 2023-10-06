@@ -9,7 +9,7 @@ $q1=mysqli_query($con,"SELECT * FROM slider ORDER BY position DESC");
 while($r1=mysqli_fetch_array($q1)){
 ?>
             <div class="swiper-slide" >
-				<img src="<?=$r1["link"]?>"/>
+				<img src="<?=$r1["link"]??""?>"/>
 				<div class="SLL CP"><?=$r1["bigtext"]?><br><span class="SMT"><?=$r1["smalltext"]?></span>&nbsp;<a href="tel:tel:+995322726556">Book Now</a></div>			
 			</div>
 <?php
