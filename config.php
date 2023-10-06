@@ -41,6 +41,7 @@ function loadDotenv($filePath)
 
         // Use putenv to set the environment variable
         putenv("$name=$value");
+        $_ENV[$name]=$value;
     }
 }
 
